@@ -116,8 +116,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:021495_0000_0FB4041E12C54C40"/>
-            <pb facs="tcp:021495_0001_0FB4041F91244E40" rendition="simple:additions"/>
+            <pb facs="unknown:021495_0000_0FB4041E12C54C40"/>
+            <pb facs="unknown:021495_0001_0FB4041F91244E40"
+                rendition="simple:additions"/>
             <p>THE SEASONS. IN FOUR BOOKS. WITH BRITANNIA. BY JAMES THOMSON.</p>
             <p>To which are added the following Pieces,
 <list>
@@ -135,11 +136,11 @@
             <p>PHILADELPHIA: Pinted for RICE and Co. MARKET-STREET. MDCCLXXXVIII.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:021495_0002_0FB40421104C2E20"/>
+            <pb facs="unknown:021495_0002_0FB40421104C2E20"/>
             <head>To the READER.</head>
             <p>THE Methods now purſued in teaching the <hi>Engliſh Tongue,</hi> are ſuch as give all the Ad<g ref="char:EOLhyphen"/>vantages, that formerly could only be acquired by an Acquaintance with the dead Languages; This has raiſed its Value, and brought into Eſ<g ref="char:EOLhyphen"/>teem many of the Productions, and elegant Com<g ref="char:EOLhyphen"/>poſitions, that have appeared in the <hi>Engliſh</hi> Language, whoſe Beauties and Value were hi<g ref="char:EOLhyphen"/>therto, only perceptible to thoſe who had labour<g ref="char:EOLhyphen"/>ed in the learned Languages, or had walked in the Fields of Science.</p>
             <p>The preſent Method of teaching the <hi>Engliſh Language,</hi> adopted in our firſt Schools, where Gentlemen of the moſt claſſical as well as liberal Education preſide, not only leads the Scholar into a proper Knowledge of <hi>Grammar,</hi> but in<g ref="char:EOLhyphen"/>troduces him to the more polite Parts of Lite<g ref="char:EOLhyphen"/>rature, whereby he is inſtructed in <hi>Syntax, Pro<g ref="char:EOLhyphen"/>ſody,</hi> and all the Beauties of <hi>Trope</hi> and <hi>Figure,</hi> &amp;c. Theſe, while they refine the Taſte, en<g ref="char:EOLhyphen"/>large the Conception, and ſo improve the Mind, as to fit it for the moſt rational of all Amuſe<g ref="char:EOLhyphen"/>ments, that of ſtudying a good Author, entering thoroughly into his Meaning, and as it were im<g ref="char:EOLhyphen"/>bibing his Spirit. In theſe Purſuits ſome of the
-<pb facs="tcp:021495_0003_0FB404229094CBF8"/>
+<pb facs="unknown:021495_0003_0FB404229094CBF8"/>
 moſt admired of the Engliſh Writers, both in Proſe and Verſe, have been introduced into our Schools; whoſe Beauties and Excellencies being firſt laid before the Pupil by his Tutor, he in a little Time becomes capable of himſelf to point them out. And as that Part of THOMSON'S WORKS, which include the SEASONS, is parti<g ref="char:EOLhyphen"/>cularly adapted to the Purpoſe, a very correct Edition is here offered, Printed from his laſt Cor<g ref="char:EOLhyphen"/>rections; to which is added his Poem, entitled, BRITANNIA, which breathing the Spirit of true <hi>Patriotiſm, Liberty,</hi> and <hi>Love of Mankind,</hi> is pe<g ref="char:EOLhyphen"/>culiarly well calculated for Youth and tender minds; and, as our Author himſelf expreſſes it,
 <q>
                   <l>—"to rear the tender Thought,</l>
@@ -154,14 +155,14 @@ But that this Piece may be ſtill more uſeful, and more fully to anſwer the De
       </front>
       <body>
          <div type="biography">
-            <pb facs="tcp:021495_0004_0FB40424110D47B8"/>
+            <pb facs="unknown:021495_0004_0FB40424110D47B8"/>
             <head>THE LIFE AND LITERARY CHARACTER OF JAMES THOMSON; Pointing out ſome particular Beauties of the Au<g ref="char:EOLhyphen"/>thor for the Uſe of young Minds.</head>
             <p>JAMES THOMSON, an eminent Britiſh poet, was the ſon of a Divine in Scotland, and born at Ednam, in the ſhire of Roxburgh, the eleventh of Sep<g ref="char:EOLhyphen"/>tember, 1700. He gave early marks of genius, which was diſcoverable through the rudeneſs of his puerile eſſays; and, after the uſual courſe of ſchool educa<g ref="char:EOLhyphen"/>tion at J<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>dburgh, was ſent to the univerſity of Edin<g ref="char:EOLhyphen"/>burgh. In the ſecond year of his admiſſion, his ſtu<g ref="char:EOLhyphen"/>dies were for ſome time interrupted by the death of his father; but his mother ſoon after repaired with her family, which was very numerous, to Edinburgh, where ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> lived in a decent frugal manner, till her favourite ſon had not only finiſhed his academical
-<pb n="ii" facs="tcp:021495_0005_0FB40425910CDA58"/>
+<pb n="ii" facs="unknown:021495_0005_0FB40425910CDA58"/>
 courſe, but was even d<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ſtinguiſhed and patronized as a genius. About this time the ſtudy of poetry be<g ref="char:EOLhyphen"/>came pretty general in Scotland, the beſt Engliſh au<g ref="char:EOLhyphen"/>thors being univerſally read, and imitations of them attempted; but taſte as yet had made but little pro<g ref="char:EOLhyphen"/>greſs, cr<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -171,7 +172,7 @@ courſe, but was even d<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ut a year, when in an exerciſe in the pſalm, in which the power and majeſty of God were celebrat<g ref="char:EOLhyphen"/>ed, he gave ſo highly poetical and ſublime a para<g ref="char:EOLhyphen"/>phraſe and illuſtration, that it ſurprized the whole audience. Mr. Hamilton complimented him on this performance in a particular manner; but at the ſame time told him, in his ſmiles of approbation, that if he expected to be uſeful in the miniſtry, he muſt keep a ſtricter rein upon his imagination, and expreſs him<g ref="char:EOLhyphen"/>ſelf in language more ſuitable to an audience, where the learned and unlearned are equally reſpectable. Thomſon concluded from this, that his expectations from the ſtudy of theology might be precarious, even though the church had been his choice; ſo that, hav<g ref="char:EOLhyphen"/>ing ſome encouragement from a lady of quality, a friend of his mother, then in London, he quickly pre<g ref="char:EOLhyphen"/>pared for his journey, which ended in no more than giving him an opportunity of entering on the ſtage of the unknown world, without a patron, and but ſparingly provided with caſh.</p>
             <p>
-               <pb n="iii" facs="tcp:021495_0006_0FB4042710501238"/>However, his merit did not lie long concealed. Mr. Forbes, af<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="iii" facs="unknown:021495_0006_0FB4042710501238"/>However, his merit did not lie long concealed. Mr. Forbes, af<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>erw<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -202,7 +203,7 @@ courſe, but was even d<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ouſly took part in it, and wrote his poem Britannia,
-<pb n="iv" facs="tcp:021495_0007_0FB4042890346C18"/>
+<pb n="iv" facs="unknown:021495_0007_0FB4042890346C18"/>
 to rouſe the nation to revenge. His poetical purſuits were now interrupted by his attendance on the ho<g ref="char:EOLhyphen"/>nourable Mr. Charles Talbot in his travels, with whom he viſited moſt of the courts and capital cities of Europe. How particular and judicious his obſer<g ref="char:EOLhyphen"/>vations were, appears from his poem on Liberty, in five parts, thus in<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>itled. Ancient and Modern Italy compared; Gre<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -222,7 +223,7 @@ to rouſe the nation to revenge. His poetical purſuits were now interrupted by 
                   <desc>•</desc>
                </gap>s to the author.</p>
             <p>
-               <pb n="v" facs="tcp:021495_0008_0FB4042A0F412AA8"/>But his chief dependence, during this long inter<g ref="char:EOLhyphen"/>val, was on the protection and bounty of his royal highneſs Frederick Prince of Wales, who, upon the recommendation of lord Lyttleton, then his chief fa<g ref="char:EOLhyphen"/>vourite, ſettled on him an handſome allowance, and always received him very graciouſly. It hap<g ref="char:EOLhyphen"/>pened, however, that the favour of his royal high<g ref="char:EOLhyphen"/>neſs was, in one inſtance, of ſome prejudice to Mr. Thomſon, in the refuſal of a licence for his tragedy of Edward and Eleanora, which he had prepared for the ſtage in the year 1739. This proceeded from the miſunderſtand<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="v" facs="unknown:021495_0008_0FB4042A0F412AA8"/>But his chief dependence, during this long inter<g ref="char:EOLhyphen"/>val, was on the protection and bounty of his royal highneſs Frederick Prince of Wales, who, upon the recommendation of lord Lyttleton, then his chief fa<g ref="char:EOLhyphen"/>vourite, ſettled on him an handſome allowance, and always received him very graciouſly. It hap<g ref="char:EOLhyphen"/>pened, however, that the favour of his royal high<g ref="char:EOLhyphen"/>neſs was, in one inſtance, of ſome prejudice to Mr. Thomſon, in the refuſal of a licence for his tragedy of Edward and Eleanora, which he had prepared for the ſtage in the year 1739. This proceeded from the miſunderſtand<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ng which then ſubſiſted between the court of the prince of Wales, and that of the king his father. His next dramatic performance was the maſque of Alfred, written jointly with Mr. Mallet, who was his good friend on many occaſions, and by command of the prince of Wales, for the entertainment of his royal highneſs's court at his Summer reſidence<g ref="char:punc">▪</g> In the year 1745, his Tancred and Sigiſmunda, taken from the novel in Gil Blas, was well received. He in the mean time, was fi<g ref="char:EOLhyphen"/>niſhing his Caſtle of Indolence, an allegorical poem, in two canto<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -235,7 +236,7 @@ to rouſe the nation to revenge. His poetical purſuits were now interrupted by 
                </gap>ſt advantage: from the pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>fits of which, and from the ſale of his manuſcripts and other effects, all demands were duly ſatisfied, and a handſome ſum
-<pb n="vi" facs="tcp:021495_0009_0FB4042C3B824890"/>
+<pb n="vi" facs="unknown:021495_0009_0FB4042C3B824890"/>
 remitted to his ſiſters. His remains were depoſited in the church of Richmond, under a plain ſtone, without any inſcription.</p>
             <p>Mr. Thomſon himſelf hints, ſomewhere in his works, that his figure was not the moſt promiſing, his make being rather robuſt than graceful; and his worſt appearance was, when he was ſeen walking alone, in a thoughtful mood: but when ſaluted by a friend<g ref="char:punc">▪</g> and they entered into converſation he would inſtantly brighten into a moſt amiable aſpect, his features no longer the ſame, and his eyes darting a peculiar and animated fire. He had im<g ref="char:EOLhyphen"/>proved his taſte by the beſt originals, both ancient and modern, b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -244,11 +245,11 @@ remitted to his ſiſters. His remains were depoſited in the church of Richmond
                </gap> own. What he borrowed from the ancients, he gives us in an avowed faithful paraphraſe, or tranſlation, as we ſee in a few paſſages taken from Virgil, and in that beautiful picture from the elder Pliny, where the courſe and gradual increaſe of the Nile are figured by the ſtages of man's life The Autumn was his favourite ſeaſon for poetical compo<g ref="char:EOLhyphen"/>ſition, and the deep ſilence of the night the t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>me he commonly choſe for ſuch ſtudies: ſo that he would often be heard walking in his ſtudy till near morning, humming over, in his way, what he was to correct and write out the next day. The amuſements of his leiſure hours were civil and natural hiſtory, voyages, and the beſt relations of travellers; and, had his ſi<g ref="char:EOLhyphen"/>tuation favoured it, he would certainly have excelled in gardening, agriculture, and every rural improve<g ref="char:EOLhyphen"/>ment and exerciſe. Although he performed on no inſtrument, he was paſſionately fond of muſic, and would ſometimes liſten a full hour at his window to the nightingales in Richmond-gardens. Nor was
-<pb n="vii" facs="tcp:021495_0010_0FB4042D1008ACE0"/>
+<pb n="vii" facs="unknown:021495_0010_0FB4042D1008ACE0"/>
 his taſte leſs exquiſite in the arts of painting, ſculp<g ref="char:EOLhyphen"/>ture, and architecture. In his travels, he had ſeen all the moſt celebrated monuments of antiquity, and the beſt productions of modern art, and had ſtudied them ſo minutely, and with ſuch true judgment, that, in ſome of his deſcriptions of his poem on Liberty, we have them ſo delineated as to place them in a ſtronger light, perhaps, than if we ſaw them with our eyes. As for the more diſtinguiſhing qualities of his mind and heart, they are beſt diſcoverable in his writings, than they can be preſented by the pen of any biographer. There his love of mankind, of his country and friends; his devotion to his God, founded on the moſt elevated and juſt conception of his operative power and providence, ſhines in every page. So unbounded was his tenderneſs of heart, that it took in even the brute creation: he was ex<g ref="char:EOLhyphen"/>tremely tender towards his own ſpecies. He is not indeed known, through his whole life, to have given any perſon one moment's pain by his writings, or otherwiſe. He took no part in the poetical ſquabbles of his time, and ſo was reſpected and left undiſturb<g ref="char:EOLhyphen"/>ed by both parties. Theſe amiable virtues, this di<g ref="char:EOLhyphen"/>vine temper of mind, did not fail of their due re<g ref="char:EOLhyphen"/>ward: the beſt and greateſt men of his time honour<g ref="char:EOLhyphen"/>ed him with their friendſhip and protection: the ap<g ref="char:EOLhyphen"/>plauſe of the public attended all his productions; his friends loved him with an enthuſiaſtic ardour, and ſincerely lamented his untimely death.</p>
          </div>
          <div type="illustration">
-            <pb facs="tcp:021495_0011_0FB4042E90847078"/>
+            <pb facs="unknown:021495_0011_0FB4042E90847078"/>
             <p>
                <figure>
                   <head>SPRING</head>
@@ -256,15 +257,15 @@ his taſte leſs exquiſite in the arts of painting, ſculp<g ref="char:EOLhyphe
             </p>
          </div>
          <div type="poem">
-            <pb facs="tcp:021495_0012_0FB4043011AC2B80"/>
+            <pb facs="unknown:021495_0012_0FB4043011AC2B80"/>
             <head>SPRING.</head>
             <argument>
-               <pb facs="tcp:021495_0013_0FB40431904953A8"/>
+               <pb facs="unknown:021495_0013_0FB40431904953A8"/>
                <head>The ARGUMENT.</head>
                <p>The ſubject propoſed. Inſcribed to the Counteſs of <hi>HART<g ref="char:EOLhyphen"/>FORD.</hi> The Seaſon is deſcribed as it affects the va<g ref="char:EOLhyphen"/>rious parts of Nature, aſcending from the lower to the higher; with digreſſions ariſing from the ſubject. Its influence on inanimate Matter, on Vegetables, on brute Animals, and laſt on Man; concluding with a diſſuaſive from the wild and irregular paſſion of Love, oppoſed to that of a pure and happy kind.</p>
             </argument>
             <head>
-               <pb n="3" facs="tcp:021495_0014_0FB4043313285BA0"/>
+               <pb n="3" facs="unknown:021495_0014_0FB4043313285BA0"/>
 SPRING.</head>
             <lg>
                <l>COME, gentle SPRING, ethereal Mildneſs, come,</l>
@@ -301,7 +302,7 @@ SPRING.</head>
                <l>The bittern knows his time, with bill ingulpht,</l>
                <l>To ſhake the ſounding marſh; or from the ſhore</l>
                <l>
-                  <pb n="4" facs="tcp:021495_0015_0FB404354F8BCC20"/>The plovers when to ſcatter o'er the heath,</l>
+                  <pb n="4" facs="unknown:021495_0015_0FB404354F8BCC20"/>The plovers when to ſcatter o'er the heath,</l>
                <l>And ſing their wild notes to the liſtening waſte.<milestone type="tcpmilestone" unit="unspecified" n="25"/>
                </l>
             </lg>
@@ -352,7 +353,7 @@ SPRING.</head>
                <l>Into the perfect year! Not ye who live</l>
                <l>In luxury and eaſe, in pomp and pride,</l>
                <l>
-                  <pb n="5" facs="tcp:021495_0016_0FB40436D0A51BC0"/>Think theſe loſt themes unworthy of your ear:</l>
+                  <pb n="5" facs="unknown:021495_0016_0FB40436D0A51BC0"/>Think theſe loſt themes unworthy of your ear:</l>
                <l>Such themes as theſe the <hi>rural</hi> MARO ſung <milestone type="tcpmilestone" unit="unspecified" n="55"/>
                </l>
                <l>To wide-imperial ROME, in the full height</l>
@@ -397,7 +398,7 @@ SPRING.</head>
                </l>
                <l>Thou ſmiling Nature's univerſal robe!</l>
                <l>
-                  <pb n="6" facs="tcp:021495_0017_0FB404385155B6B0"/>United light and ſhade! where the ſight dwells <milestone type="tcpmilestone" unit="unspecified" n="85"/>
+                  <pb n="6" facs="unknown:021495_0017_0FB404385155B6B0"/>United light and ſhade! where the ſight dwells <milestone type="tcpmilestone" unit="unspecified" n="85"/>
                </l>
                <l>With growing ſtrength, and ever-new delight.</l>
             </lg>
@@ -445,7 +446,7 @@ SPRING.</head>
                </l>
                <l>The clammy mildew; or, dry-blowing, breathe</l>
                <l>
-                  <pb n="7" facs="tcp:021495_0018_0FB40439DC5E8320"/>Untimely froſt; before whoſe baleful blaſt,</l>
+                  <pb n="7" facs="unknown:021495_0018_0FB40439DC5E8320"/>Untimely froſt; before whoſe baleful blaſt,</l>
                <l>The full-blown Spring thro' all her foliage ſhrinks,</l>
                <l>Joyleſs, and dead, a wide-dejected waſte.</l>
                <l>For oft, engender'd by the hazy north,<milestone type="tcpmilestone" unit="unspecified" n="120"/>
@@ -499,7 +500,7 @@ SPRING.</head>
                </l>
                <l>Breathes the big clouds with vernal ſhowers diſtent.</l>
                <l>
-                  <pb n="8" facs="tcp:021495_0019_0FB4043B5022DFE8"/>At firſt a duſky wreath they ſeem to riſe,</l>
+                  <pb n="8" facs="unknown:021495_0019_0FB4043B5022DFE8"/>At firſt a duſky wreath they ſeem to riſe,</l>
                <l>Scarce ſtaining ether; but by <note n="*" place="bottom">ſwift</note> faſt degrees,</l>
                <l>In heaps on heaps, the doubling vapour ſails</l>
                <l>Along the loaded ſky, and mingling deep <milestone type="tcpmilestone" unit="unspecified" n="150"/>
@@ -539,7 +540,7 @@ SPRING.</head>
                <l>By ſuch as wander thro' the foreſt-walks,</l>
                <l>Beneath th' umbrageous multitude of leaves.</l>
                <l>
-                  <pb n="9" facs="tcp:021495_0020_0FB4043CD175F880"/>
+                  <pb n="9" facs="unknown:021495_0020_0FB4043CD175F880"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ut who can hold the ſhade, while Heaven deſcends <milestone type="tcpmilestone" unit="unspecified" n="180"/>
@@ -585,7 +586,7 @@ SPRING.</head>
                </l>
                <l>The various twine of light, by thee diſclos'd</l>
                <l>
-                  <pb n="10" facs="tcp:021495_0021_0FB4043E50B2A0B0"/>From the white mingling maze. Not ſo the <note n="*" place="bottom">boy</note> ſwain;</l>
+                  <pb n="10" facs="unknown:021495_0021_0FB4043E50B2A0B0"/>From the white mingling maze. Not ſo the <note n="*" place="bottom">boy</note> ſwain;</l>
                <l>He wondering views the bright enchantment bend,</l>
                <l>Delightful, o'er the radiant fields, and runs</l>
                <l>To catch the falling glory; but amaz'd <milestone type="tcpmilestone" unit="unspecified" n="215"/>
@@ -628,7 +629,7 @@ SPRING.</head>
                <l>The lord, and not the tyrant of the world.</l>
             </lg>
             <lg>
-               <pb n="11" facs="tcp:021495_0022_0FB4043FD02623D8"/>
+               <pb n="11" facs="unknown:021495_0022_0FB4043FD02623D8"/>
                <l>THE firſt freſh dawn then wak'd the gladden'd race</l>
                <l>Of <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -669,7 +670,7 @@ SPRING.</head>
                <l>In conſonance. Such were thoſe prime of days.</l>
             </lg>
             <lg>
-               <pb n="12" facs="tcp:021495_0023_0FB4044151A75920"/>
+               <pb n="12" facs="unknown:021495_0023_0FB4044151A75920"/>
                <l>BUT now thoſe white unblemiſh'd <note n="*" place="bottom">manners</note> minutes, whence</l>
                <l>The fabling poets took their golden age,</l>
                <l>Are found no more amid theſe iron times,</l>
@@ -710,7 +711,7 @@ SPRING.</head>
                <l>The partial thought, a liſtleſs unconcern,</l>
                <l>Cold, and averting from our neighbour's good;</l>
                <l>
-                  <pb n="13" facs="tcp:021495_0024_0FB40442D0CEEAE0"/>Then dark diſguſt, and hatred, winding wiles,</l>
+                  <pb n="13" facs="unknown:021495_0024_0FB40442D0CEEAE0"/>Then dark diſguſt, and hatred, winding wiles,</l>
                <l>Coward deceit, and ruffian violence.</l>
                <l>At laſt, extinct each ſocial feeling, fell <milestone type="tcpmilestone" unit="unspecified" n="305"/>
                </l>
@@ -752,7 +753,7 @@ SPRING.</head>
                <l>From clear to cloudy toſt, from hot to cold,</l>
                <l>And dry to moiſt, with inward-eating change,</l>
                <l>
-                  <pb n="14" facs="tcp:021495_0025_0FB40444504FDB88"/>Our drooping days are dwindled down to nought,</l>
+                  <pb n="14" facs="unknown:021495_0025_0FB40444504FDB88"/>Our drooping days are dwindled down to nought,</l>
                <l>Their period finiſh'd ere 'tis well begun.<milestone type="tcpmilestone" unit="unspecified" n="335"/>
                </l>
             </lg>
@@ -795,7 +796,7 @@ SPRING.</head>
                </l>
                <l>With all the pomp of harveſt; ſhall he bleed,</l>
                <l>
-                  <pb n="15" facs="tcp:021495_0026_0FB40445D0E3F980"/>And ſtruggling groan beneath the cruel hands</l>
+                  <pb n="15" facs="unknown:021495_0026_0FB40445D0E3F980"/>And ſtruggling groan beneath the cruel hands</l>
                <l>Even of the clown he feeds? and that, perhaps,</l>
                <l>To ſwell the riot of th' autumnal feaſt,</l>
                <l>Won by his labour? thus the feeling heart <milestone type="tcpmilestone" unit="unspecified" n="370"/>
@@ -837,7 +838,7 @@ SPRING.</head>
                </l>
                <l>And light o'er ether bear the ſhadowy clouds.</l>
                <l>
-                  <pb n="16" facs="tcp:021495_0027_0FB40448033B7038"/>High to their fount, this day, amid the hills,</l>
+                  <pb n="16" facs="unknown:021495_0027_0FB40448033B7038"/>High to their fount, this day, amid the hills,</l>
                <l>And woodlands warbling round, trace up the brooks;</l>
                <l>The next, purſue their rocky-channel'd maze,</l>
                <l>Down to the river, in whoſe ample wave <milestone type="tcpmilestone" unit="unspecified" n="400"/>
@@ -876,7 +877,7 @@ SPRING.</head>
                <l>At laſt, while haply o'er the ſhaded ſun</l>
                <l>Paſſes a cloud, he deſperate takes the death,</l>
                <l>
-                  <pb n="17" facs="tcp:021495_0028_0FB4044990871058"/>With ſullen plunge. At once he darts along,</l>
+                  <pb n="17" facs="unknown:021495_0028_0FB4044990871058"/>With ſullen plunge. At once he darts along,</l>
                <l>Deep-ſtruck, and runs out all the lengthen'd line; <milestone type="tcpmilestone" unit="unspecified" n="430"/>
                </l>
                <l>Then ſeeks the fartheſt ooze, the ſheltering weed,</l>
@@ -916,7 +917,7 @@ SPRING.</head>
                <l>Or by the vocal woods and waters lull'd,</l>
                <l>And loſt in lonely muſing, in a dream,</l>
                <l>
-                  <pb n="18" facs="tcp:021495_0029_0FB4044B110018B8"/>Confus'd, of careleſs ſolitude, where mix <milestone type="tcpmilestone" unit="unspecified" n="460"/>
+                  <pb n="18" facs="unknown:021495_0029_0FB4044B110018B8"/>Confus'd, of careleſs ſolitude, where mix <milestone type="tcpmilestone" unit="unspecified" n="460"/>
                </l>
                <l>Ten thouſand wandering images of things,</l>
                <l>Soothe every guſt of paſſion into peace,</l>
@@ -961,7 +962,7 @@ SPRING.</head>
                <l>And thy lov'd boſom that improves their ſweets.</l>
             </lg>
             <lg>
-               <pb n="19" facs="tcp:021495_0030_0FB4044C915B5818"/>
+               <pb n="19" facs="unknown:021495_0030_0FB4044C915B5818"/>
                <l>SEE, where the winding vale its laviſh ſtores,</l>
                <l>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1007,7 +1008,7 @@ SPRING.</head>
                <l>The foreſt darkening round, the glittering ſpire,</l>
                <l>Th' ethereal mountain, and the diſtant main.</l>
                <l>
-                  <pb n="20" facs="tcp:021495_0031_0FB4044E1079C218"/>But why ſo far excurſive? when at hand,</l>
+                  <pb n="20" facs="unknown:021495_0031_0FB4044E1079C218"/>But why ſo far excurſive? when at hand,</l>
                <l>Along theſe bluſhing borders, bright with dew,<milestone type="tcpmilestone" unit="unspecified" n="525"/>
                </l>
                <l>And in yon mingled wilderneſs of flowers,</l>
@@ -1058,7 +1059,7 @@ SPRING.</head>
                <l>Hail, SOURCE of BEING! UNIVERSAL SOUL</l>
                <l>Of Heaven and earth! ESSENTIAL PRESENCE, hail!</l>
                <l>
-                  <pb n="21" facs="tcp:021495_0032_0FB4044F9589BF88"/>To THEE I bend the knee; to THEE my thoughts,</l>
+                  <pb n="21" facs="unknown:021495_0032_0FB4044F9589BF88"/>To THEE I bend the knee; to THEE my thoughts,</l>
                <l>Continual, climb; who, with a maſter-hand,<milestone type="tcpmilestone" unit="unspecified" n="556"/>
                </l>
                <l>Haſt the great whole into perfection touch'd.</l>
@@ -1105,7 +1106,7 @@ SPRING.</head>
                </l>
                <l>Than, all alive, at once their joy o'erflows</l>
                <l>
-                  <pb n="22" facs="tcp:021495_0033_0FB40451102EE220"/>In muſic unconfin'd. Up-ſprings the lark,</l>
+                  <pb n="22" facs="unknown:021495_0033_0FB40451102EE220"/>In muſic unconfin'd. Up-ſprings the lark,</l>
                <l>Shrill-voiced, and loud, the meſſenger of morn;</l>
                <l>Ere yet the ſhadows fly, he mounted ſings</l>
                <l>Amid the dawning clouds, and from their haunts <milestone type="tcpmilestone" unit="unspecified" n="590"/>
@@ -1148,7 +1149,7 @@ SPRING.</head>
                <l>Can dictate, and in courtſhip to their mates</l>
                <l>Pour forth their little ſouls. Firſt, wide around,</l>
                <l>
-                  <pb n="23" facs="tcp:021495_0034_0FB40452914E63B0"/>With diſtant awe, in airy rings they rove,</l>
+                  <pb n="23" facs="unknown:021495_0034_0FB40452914E63B0"/>With diſtant awe, in airy rings they rove,</l>
                <l>Endeavouring by a thouſand tricks to catch</l>
                <l>The cunning, conſcious, half-averted glance <milestone type="tcpmilestone" unit="unspecified" n="620"/>
                </l>
@@ -1188,7 +1189,7 @@ SPRING.</head>
                <l>They frame the firſt foundation of their domes;</l>
                <l>Dry ſprigs of trees, in artful fabrick laid,</l>
                <l>
-                  <pb n="24" facs="tcp:021495_0035_0FB4045410457B48"/>And bound with clay together. Now 'tis nought</l>
+                  <pb n="24" facs="unknown:021495_0035_0FB4045410457B48"/>And bound with clay together. Now 'tis nought</l>
                <l>But reſtleſs hurry thro' the buſy air,<milestone type="tcpmilestone" unit="unspecified" n="650"/>
                </l>
                <l>Beat by unnumber'd wings. The ſwallow ſweeps</l>
@@ -1228,7 +1229,7 @@ SPRING.</head>
                <l>By fortune ſunk, but form'd of generous mold,</l>
                <l>And <note n="*" place="bottom">charm'd</note> pierc'd with cares beyond the vulgar breaſt,</l>
                <l>
-                  <pb n="25" facs="tcp:021495_0036_0FB404559F0354C0"/>In ſome lone cott amid the diſtant woods,<milestone type="tcpmilestone" unit="unspecified" n="680"/>
+                  <pb n="25" facs="unknown:021495_0036_0FB404559F0354C0"/>In ſome lone cott amid the diſtant woods,<milestone type="tcpmilestone" unit="unspecified" n="680"/>
                </l>
                <l>Suſtain'd alone by providential HEAVEN,</l>
                <l>Oft, as they weeping eye their infant train,</l>
@@ -1272,7 +1273,7 @@ SPRING.</head>
                </l>
             </lg>
             <lg>
-               <pb n="26" facs="tcp:021495_0037_0FB40457108D8898"/>
+               <pb n="26" facs="unknown:021495_0037_0FB40457108D8898"/>
                <l>BUT let not chief the nightingale lament</l>
                <l>Her ruin'd care, too delicately fram'd</l>
                <l>To brook the harſh confinement of the cage.</l>
@@ -1314,7 +1315,7 @@ SPRING.</head>
                <l>Trembling refuſe: till down before them fly</l>
                <l>The parent-guides, and chide, exhort, command,</l>
                <l>
-                  <pb n="27" facs="tcp:021495_0038_0FB4045890776888"/>Or puſh them off. The ſurging air receives</l>
+                  <pb n="27" facs="unknown:021495_0038_0FB4045890776888"/>Or puſh them off. The ſurging air receives</l>
                <l>The plumy burden; and their ſelf-taught wings</l>
                <l>Winnow the waving element. On ground <milestone type="tcpmilestone" unit="unspecified" n="745"/>
                </l>
@@ -1359,7 +1360,7 @@ SPRING.</head>
                <l>Fed, and defended by the fearleſs cock,</l>
                <l>Whoſe breaſt with ardour flames, as on he walks,</l>
                <l>
-                  <pb n="28" facs="tcp:021495_0039_0FB4045A1767B300"/>Graceful, and crows defiance. In the pond,</l>
+                  <pb n="28" facs="unknown:021495_0039_0FB4045A1767B300"/>Graceful, and crows defiance. In the pond,</l>
                <l>The finely-checker'd duck, before her train,</l>
                <l>Rows garrulous. The ſtately-ſailing ſwan <milestone type="tcpmilestone" unit="unspecified" n="775"/>
                </l>
@@ -1399,7 +1400,7 @@ SPRING.</head>
                <l>Whence the ſand flies, they mutter bloody deeds,</l>
                <l>And groaning deep th' impetuous battle mix:</l>
                <l>
-                  <pb n="29" facs="tcp:021495_0040_0FB4045B92452B78"/>While the fair heifer, balmy-breathing, near,</l>
+                  <pb n="29" facs="unknown:021495_0040_0FB4045B92452B78"/>While the fair heifer, balmy-breathing, near,</l>
                <l>Stands kindling up their rage. The trembling ſteed,</l>
                <l>With this hot impulſe ſeiz'd in every nerve,<milestone type="tcpmilestone" unit="unspecified" n="806"/>
                </l>
@@ -1441,7 +1442,7 @@ SPRING.</head>
                <l>Of various cadence; and his ſportive lambs,</l>
                <l>This way and that convolv'd, in friſkful glee,</l>
                <l>
-                  <pb n="30" facs="tcp:021495_0041_0FB4045DBA5C79B8"/>Their frolicks play. And now the ſprightly race <milestone type="tcpmilestone" unit="unspecified" n="835"/>
+                  <pb n="30" facs="unknown:021495_0041_0FB4045DBA5C79B8"/>Their frolicks play. And now the ſprightly race <milestone type="tcpmilestone" unit="unspecified" n="835"/>
                </l>
                <l>Invites them forth; when ſwift, the ſignal given,</l>
                <l>They ſtart away, and ſweep the maſſy mound</l>
@@ -1484,7 +1485,7 @@ SPRING.</head>
                <l>Profuſely thus in tenderneſs and joy.</l>
             </lg>
             <lg>
-               <pb n="31" facs="tcp:021495_0042_0FB4045E91ABA2C8"/>
+               <pb n="31" facs="unknown:021495_0042_0FB4045E91ABA2C8"/>
                <l>STILL let my ſong a nobler note aſſume,</l>
                <l>And ſing th' infuſive force of Spring on Man; <milestone type="tcpmilestone" unit="unspecified" n="865"/>
                </l>
@@ -1526,7 +1527,7 @@ SPRING.</head>
                </l>
                <l>By ſwift degrees the love of Nature works,</l>
                <l>
-                  <pb n="32" facs="tcp:021495_0043_0FB40460104AA398"/>And warms the boſom; till at laſt ſublim'd</l>
+                  <pb n="32" facs="unknown:021495_0043_0FB40460104AA398"/>And warms the boſom; till at laſt ſublim'd</l>
                <l>To rapture, and enthuſiaſtic heat,</l>
                <l>We feel the preſent DEITY, and taſte</l>
                <l>The joy of GOD to ſee a happy world.<milestone type="tcpmilestone" unit="unspecified" n="900"/>
@@ -1567,7 +1568,7 @@ SPRING.</head>
                <l>And honeſt zeal unwarp'd by party-rage,</l>
                <l>BRITANNIA's weal; how from the venal gulph</l>
                <l>
-                  <pb n="33" facs="tcp:021495_0044_0FB404618EDDC558"/>To raiſe her virtue, and her arts revive.</l>
+                  <pb n="33" facs="unknown:021495_0044_0FB404618EDDC558"/>To raiſe her virtue, and her arts revive.</l>
                <l>Or, turning thence thy view, theſe graver thoughts</l>
                <l>The Muſes charm: while, with ſure taſte refin'd,<milestone type="tcpmilestone" unit="unspecified" n="930"/>
                </l>
@@ -1611,7 +1612,7 @@ SPRING.</head>
                <l>That ſkirt the blue horiſon, <note n="§§" place="bottom">duſky</note> doubtful, riſe.</l>
             </lg>
             <lg>
-               <pb n="34" facs="tcp:021495_0045_0FB404631135FD98"/>
+               <pb n="34" facs="unknown:021495_0045_0FB404631135FD98"/>
                <l>FLUSH'D by the ſpirit of the genial year,<milestone type="tcpmilestone" unit="unspecified" n="960"/>
                </l>
                <l>Now from the virgin's cheek a freſher bloom</l>
@@ -1663,7 +1664,7 @@ SPRING.</head>
                   </gap>ing in his cheated ear,<milestone type="tcpmilestone" unit="unspecified" n="990"/>
                </l>
                <l>
-                  <pb n="35" facs="tcp:021495_0046_0FB40464925081D0"/>Her ſyren voice, enchanting, draws him on,</l>
+                  <pb n="35" facs="unknown:021495_0046_0FB40464925081D0"/>Her ſyren voice, enchanting, draws him on,</l>
                <l>To guileful ſhores, and meads of fatal joy.</l>
             </lg>
             <lg>
@@ -1706,7 +1707,7 @@ SPRING.</head>
                <l>And love-dejected eyes. Sudden he ſtarts,</l>
                <l>Shook from his tender trance, and reſtleſs runs</l>
                <l>
-                  <pb n="36" facs="tcp:021495_0047_0FB4046612560BC8"/>To glimmering ſhades, and ſympathetic glooms;</l>
+                  <pb n="36" facs="unknown:021495_0047_0FB4046612560BC8"/>To glimmering ſhades, and ſympathetic glooms;</l>
                <l>Where the dun umbrage o'er the falling ſtream,</l>
                <l>Romantic, hangs; there thro' the penſive duſk <milestone type="tcpmilestone" unit="unspecified" n="1025"/>
                </l>
@@ -1750,7 +1751,7 @@ SPRING.</head>
                </l>
                <l>To ſecret-winding flower-enwoven bowers</l>
                <l>
-                  <pb n="37" facs="tcp:021495_0048_0FB404679530AEC0"/>Far from the dull impertinence of Man,</l>
+                  <pb n="37" facs="unknown:021495_0048_0FB404679530AEC0"/>Far from the dull impertinence of Man,</l>
                <l>Juſt as he, credulous, his endleſs cares</l>
                <l>Begins to loſe in blind oblivious love,</l>
                <l>Snatch'd from her yielded hand, he knows not how,</l>
@@ -1789,7 +1790,7 @@ SPRING.</head>
                <l>A <note n="†" place="bottom">clouded</note> cloudy aſpect, and a burning cheek,</l>
                <l>Where the whole poiſon'd ſoul, malignant ſits,</l>
                <l>
-                  <pb n="38" facs="tcp:021495_0049_0FB4046911DB22F0"/>And frightens love away. Ten thouſand fears</l>
+                  <pb n="38" facs="unknown:021495_0049_0FB4046911DB22F0"/>And frightens love away. Ten thouſand fears</l>
                <l>Invented wild, ten thouſand frantic views <milestone type="tcpmilestone" unit="unspecified" n="1090"/>
                </l>
                <l>Of horrid rivals, hanging on the charms</l>
@@ -1829,7 +1830,7 @@ SPRING.</head>
                <l>Perfect eſteem enliven'd by deſire</l>
                <l>Ineffable, and ſympathy of ſoul;</l>
                <l>
-                  <pb n="39" facs="tcp:021495_0050_0FB4046A904C7C40"/>Thought meeting thought, and will preventing will,</l>
+                  <pb n="39" facs="unknown:021495_0050_0FB4046A904C7C40"/>Thought meeting thought, and will preventing will,</l>
                <l>With boundleſs confidence: for nought but love <milestone type="tcpmilestone" unit="unspecified" n="1121"/>
                </l>
                <l>Can anſwer love, and render bliſs ſecure.</l>
@@ -1882,7 +1883,7 @@ SPRING.</head>
                      <desc>•</desc>
                   </gap>rpoſe in the glowing breaſt.</l>
                <l>
-                  <pb n="40" facs="tcp:021495_0051_0FB4046C101F1B10"/>Oh ſpeak the joy,! ye, whom the ſudden tear</l>
+                  <pb n="40" facs="unknown:021495_0051_0FB4046C101F1B10"/>Oh ſpeak the joy,! ye, whom the ſudden tear</l>
                <l>Surprizes often, while you look around,<milestone type="tcpmilestone" unit="unspecified" n="1155"/>
                </l>
                <l>And nothing ſtrikes your eye but ſights of bliſs,</l>
@@ -1909,7 +1910,7 @@ SPRING.</head>
             </lg>
          </div>
          <div type="illustration">
-            <pb facs="tcp:021495_0052_0FB4046D9196AB98"/>
+            <pb facs="unknown:021495_0052_0FB4046D9196AB98"/>
             <p>
                <figure>
                   <head>SUMMER</head>
@@ -1917,15 +1918,15 @@ SPRING.</head>
             </p>
          </div>
          <div type="poem">
-            <pb facs="tcp:021495_0053_0FB4046F0F2522E0"/>
+            <pb facs="unknown:021495_0053_0FB4046F0F2522E0"/>
             <head>SUMMER.</head>
             <argument>
-               <pb facs="tcp:021495_0054_0FB4047090C3FE00"/>
+               <pb facs="unknown:021495_0054_0FB4047090C3FE00"/>
                <head>The ARGUMENT.</head>
                <p>The ſubject propoſed. Invocation. Addreſs to Mr. <hi>DO<g ref="char:EOLhyphen"/>DINGTON.</hi> An introductory reflexion on the motion of the heavenly bodies; whence the ſucceſſion of the ſea<g ref="char:EOLhyphen"/>ſons. As the face of Nature in this ſeaſon is almoſt uniform, the progreſs of the poem is a deſcription of a ſummer's day. The dawn. Sun-riſing. Hymn to the ſun. Forenoon. Summer inſects deſcrib'd. Hay-making. Sheep-ſhearing. Noon-day. A woodland retreat. Groupe of herds and flocks. A ſolemn grove: how it affects a contemplative mind. A ca<g ref="char:EOLhyphen"/>taract, and rude ſcene. View of ſummer in the torrid zone. Storm of thunder and lightning. A tale. The ſtorm over, a ſerene afternoon. Bathing. Hour of walking. Tranſition to the proſpect of a rich well-cultivated country; which introduces a panegyric on <hi>GREAT BRITAIN.</hi> Sun-ſet. Evening. Night. Summer meteors. A comet. The whole concluding with the praiſe of philoſophy.</p>
             </argument>
             <head>
-               <pb n="43" facs="tcp:021495_0055_0FB4047210A96180"/>
+               <pb n="43" facs="unknown:021495_0055_0FB4047210A96180"/>
 SUMMER.</head>
             <lg>
                <l>FROM brightening fields of ether fair diſclos'd,</l>
@@ -1964,7 +1965,7 @@ SUMMER.</head>
                <l>Pure light of mind, and tenderneſs of heart;</l>
                <l>Genius, and wiſdom; the gay ſocial ſenſe,</l>
                <l>
-                  <pb n="44" facs="tcp:021495_0056_0FB404739022C878"/>By decency chaſtis'd; goodneſs and wit,<milestone type="tcpmilestone" unit="unspecified" n="25"/>
+                  <pb n="44" facs="unknown:021495_0056_0FB404739022C878"/>By decency chaſtis'd; goodneſs and wit,<milestone type="tcpmilestone" unit="unspecified" n="25"/>
                </l>
                <l>In ſeldom-meeting harmony combin'd;</l>
                <l>Unblemiſh'd honour, and an active zeal,</l>
@@ -2005,7 +2006,7 @@ SUMMER.</head>
                <l>And opens all the lawny proſpect wide.</l>
                <l>The dripping rock, the mountain's miſty top</l>
                <l>
-                  <pb n="45" facs="tcp:021495_0057_0FB40475101508F0"/>Swell on the ſight, and brighten with the dawn.<milestone type="tcpmilestone" unit="unspecified" n="55"/>
+                  <pb n="45" facs="unknown:021495_0057_0FB40475101508F0"/>Swell on the ſight, and brighten with the dawn.<milestone type="tcpmilestone" unit="unspecified" n="55"/>
                </l>
                <l>Blue, thro' the duſk, the ſmoking currents ſhine;</l>
                <l>And from the bladed field the fearful hare</l>
@@ -2049,7 +2050,7 @@ SUMMER.</head>
                </l>
                <l>Aſlant the dew-bright earth, and colour'd air,</l>
                <l>
-                  <pb n="46" facs="tcp:021495_0058_0FB4047693DC32B0"/>He looks in boundleſs majeſty abroad;</l>
+                  <pb n="46" facs="unknown:021495_0058_0FB4047693DC32B0"/>He looks in boundleſs majeſty abroad;</l>
                <l>And ſheds the ſhining day, that burniſh'd plays</l>
                <l>On rocks, and hills, and towers, and wandering ſtreams,</l>
                <l>High-gleaming from afar. Prime chearer, light!<milestone type="tcpmilestone" unit="unspecified" n="90"/>
@@ -2093,7 +2094,7 @@ SUMMER.</head>
                <l>In world-rejoicing ſtate, it moves ſublime.</l>
                <l>Mean-time th' expecting nations, circled gay</l>
                <l>
-                  <pb n="47" facs="tcp:021495_0059_0FB40478D0E8EF08"/>With all the various tribes of foodful earth,</l>
+                  <pb n="47" facs="unknown:021495_0059_0FB40478D0E8EF08"/>With all the various tribes of foodful earth,</l>
                <l>Implore thy bounty, or ſend grateful up</l>
                <l>A common hymn: while, round thy beaming car,</l>
                <l>High-ſeen, the <hi>Seaſons</hi> lead, in ſprightly dance <milestone type="tcpmilestone" unit="unspecified" n="121"/>
@@ -2140,7 +2141,7 @@ SUMMER.</head>
                <l>And with a waving radiance inward flames.</l>
                <l>From thee the ſapphire, ſolid ether, takes</l>
                <l>
-                  <pb n="48" facs="tcp:021495_0060_0FB4047A51F65F98"/>Its hue cerulean; and, of evening tinct,<milestone type="tcpmilestone" unit="unspecified" n="150"/>
+                  <pb n="48" facs="unknown:021495_0060_0FB4047A51F65F98"/>Its hue cerulean; and, of evening tinct,<milestone type="tcpmilestone" unit="unspecified" n="150"/>
                </l>
                <l>The purple-ſtreaming Amethyſt is thine.</l>
                <l>With thy own ſmile the yellow topaz burns.</l>
@@ -2184,7 +2185,7 @@ SUMMER.</head>
                </l>
                <l>That beam for ever, thro' the boundleſs ſky:</l>
                <l>
-                  <pb n="49" facs="tcp:021495_0061_0FB4047C93880000"/>But, ſhould he hide his face, th' aſtoniſh'd ſun,</l>
+                  <pb n="49" facs="unknown:021495_0061_0FB4047C93880000"/>But, ſhould he hide his face, th' aſtoniſh'd ſun,</l>
                <l>And all th' extinguiſh'd ſtars, would looſening <note n="*" place="bottom">reel</note> ſtart</l>
                <l>Wide from their ſpheres, and Chaos come again.</l>
             </lg>
@@ -2228,7 +2229,7 @@ SUMMER.</head>
                <l>With rapid ſway, his burning influence darts <milestone type="tcpmilestone" unit="unspecified" n="210"/>
                </l>
                <l>
-                  <pb n="50" facs="tcp:021495_0062_0FB4047E121F6780"/>On Man, and beaſt, and herb, and tepid ſtream.</l>
+                  <pb n="50" facs="unknown:021495_0062_0FB4047E121F6780"/>On Man, and beaſt, and herb, and tepid ſtream.</l>
             </lg>
             <lg>
                <l>WHO can unpitying ſee the flowery race,</l>
@@ -2272,7 +2273,7 @@ SUMMER.</head>
             <lg>
                <l>WAK'D by his warmer ray, the reptile young</l>
                <l>
-                  <pb n="51" facs="tcp:021495_0063_0FB4047F910BB560"/>Come wing'd abroad; by the light air upborn,</l>
+                  <pb n="51" facs="unknown:021495_0063_0FB4047F910BB560"/>Come wing'd abroad; by the light air upborn,</l>
                <l>Lighter, and full of ſoul. From every chink,</l>
                <l>And ſecret corner, where they ſlept away</l>
                <l>The wintry ſtorms; or riſing from their tombs,<milestone type="tcpmilestone" unit="unspecified" n="245"/>
@@ -2314,7 +2315,7 @@ SUMMER.</head>
                <l>Near the dire cell the dreadleſs wanderer oft</l>
                <l>Paſſes, as oft the ruffian ſhews his front.</l>
                <l>
-                  <pb n="52" facs="tcp:021495_0064_0FB404810F01DBA0"/>The prey at laſt enſnar'd, he dreadful darts,<milestone type="tcpmilestone" unit="unspecified" n="275"/>
+                  <pb n="52" facs="unknown:021495_0064_0FB404810F01DBA0"/>The prey at laſt enſnar'd, he dreadful darts,<milestone type="tcpmilestone" unit="unspecified" n="275"/>
                </l>
                <l>With rapid glide, along the leaning line;</l>
                <l>And, fixing in the wretch his cruel fangs,</l>
@@ -2358,7 +2359,7 @@ SUMMER.</head>
                </l>
                <l>Each liquid too, whether it pierces, ſooths,</l>
                <l>
-                  <pb n="53" facs="tcp:021495_0065_0FB4048336C78F40"/>Inflames, refreſhes, or exalts the taſte,</l>
+                  <pb n="53" facs="unknown:021495_0065_0FB4048336C78F40"/>Inflames, refreſhes, or exalts the taſte,</l>
                <l>With various forms abounds. Nor is the ſtream</l>
                <l>Of pureſt chryſtal, nor the lucid air,</l>
                <l>Tho' one tranſparent vacancy it ſeems,<milestone type="tcpmilestone" unit="unspecified" n="310"/>
@@ -2400,7 +2401,7 @@ SUMMER.</head>
                <l>Till then alone let zealous praiſe aſcend,</l>
                <l>And hymns of holy wonder, to that POWER,</l>
                <l>
-                  <pb n="54" facs="tcp:021495_0066_0FB404840F3979E8"/>Whoſe wiſdom ſhines as lovely on our minds,<milestone type="tcpmilestone" unit="unspecified" n="340"/>
+                  <pb n="54" facs="unknown:021495_0066_0FB404840F3979E8"/>Whoſe wiſdom ſhines as lovely on our minds,<milestone type="tcpmilestone" unit="unspecified" n="340"/>
                </l>
                <l>As on our ſmiling eyes his ſervant-ſun.</l>
             </lg>
@@ -2444,7 +2445,7 @@ SUMMER.</head>
                </l>
             </lg>
             <lg>
-               <pb n="55" facs="tcp:021495_0067_0FB4048590A2F4F8"/>
+               <pb n="55" facs="unknown:021495_0067_0FB4048590A2F4F8"/>
                <l>OR ruſhing thence, in one diffuſive band,</l>
                <l>They drive the troubled flocks, by many a dog</l>
                <l>Compell'd, to where the mazy-running brook</l>
@@ -2485,7 +2486,7 @@ SUMMER.</head>
                <l>Her ſmiles, ſweet-beaming, on her ſhepherd-king;</l>
                <l>While the glad circle round them yield their ſouls</l>
                <l>
-                  <pb n="56" facs="tcp:021495_0068_0FB40487103903E0"/>To feſtive mirth, and wit that knows no gall.</l>
+                  <pb n="56" facs="unknown:021495_0068_0FB40487103903E0"/>To feſtive mirth, and wit that knows no gall.</l>
                <l>Meantime, their joyous taſk goes on apace:<milestone type="tcpmilestone" unit="unspecified" n="405"/>
                </l>
                <l>Some mingling ſtir the melted tar, and ſome,</l>
@@ -2530,7 +2531,7 @@ SUMMER.</head>
                </l>
                <l>From pole to pole is undiſtinguiſh'd blaze.</l>
                <l>
-                  <pb n="57" facs="tcp:021495_0069_0FB4048890AB70D8"/>In vain the ſight, dejected to the ground,</l>
+                  <pb n="57" facs="unknown:021495_0069_0FB4048890AB70D8"/>In vain the ſight, dejected to the ground,</l>
                <l>Stoops for relief; thence hot aſcending ſteams</l>
                <l>And keen reflection pain. Deep to the root</l>
                <l>Of vegetation parch'd, the cleaving fields <milestone type="tcpmilestone" unit="unspecified" n="440"/>
@@ -2572,7 +2573,7 @@ SUMMER.</head>
                <l>Amid a jarring world with vice inflam'd.</l>
             </lg>
             <lg>
-               <pb n="58" facs="tcp:021495_0070_0FB4048AC75F15C0"/>
+               <pb n="58" facs="unknown:021495_0070_0FB4048AC75F15C0"/>
                <l>WELCOME, ye ſhades! ye bowery thickets, hail!</l>
                <l>Ye lofty pines! ye venerable oaks!<milestone type="tcpmilestone" unit="unspecified" n="470"/>
                </l>
@@ -2617,7 +2618,7 @@ SUMMER.</head>
                <l>LIGHT fly his ſlumbers, if perchance a flight</l>
                <l>Of angry gad-flies faſten on the herd;</l>
                <l>
-                  <pb n="59" facs="tcp:021495_0071_0FB4048B90E66698"/>That ſtartling ſcatters from the ſhallow brook,<milestone type="tcpmilestone" unit="unspecified" n="500"/>
+                  <pb n="59" facs="unknown:021495_0071_0FB4048B90E66698"/>That ſtartling ſcatters from the ſhallow brook,<milestone type="tcpmilestone" unit="unspecified" n="500"/>
                </l>
                <l>In ſearch of laviſh ſtream. Toſſing the foam,</l>
                <l>They ſcorn the keeper's voice, and ſcour the plain,</l>
@@ -2662,7 +2663,7 @@ SUMMER.</head>
                <l>For future trials fated to prepare; <milestone type="tcpmilestone" unit="unspecified" n="530"/>
                </l>
                <l>
-                  <pb n="60" facs="tcp:021495_0072_0FB4048D1079A6C0"/>To prompt the poet, who devoted gives</l>
+                  <pb n="60" facs="unknown:021495_0072_0FB4048D1079A6C0"/>To prompt the poet, who devoted gives</l>
                <l>His muſe to better themes; to ſooth the pangs</l>
                <l>Of dying worth, and from the patriot's breaſt,</l>
                <l>(Backward to mingle in deteſted war,</l>
@@ -2705,7 +2706,7 @@ SUMMER.</head>
                <l>"Of Poet, ſwelling to ſeraphic ſtrain."</l>
             </lg>
             <lg>
-               <pb n="61" facs="tcp:021495_0073_0FB4048E980CB148"/>
+               <pb n="61" facs="unknown:021495_0073_0FB4048E980CB148"/>
                <l>AND art thou, <note n="*" place="bottom">A young lady, well known to the author, who died at the age of eighteen, in the year 1738.</note> STANLEY, of that ſacred band?</l>
                <l>Alas, for us too ſoon! Tho' rais'd above <milestone type="tcpmilestone" unit="unspecified" n="565"/>
                </l>
@@ -2746,7 +2747,7 @@ SUMMER.</head>
                <l>Rolls fair, and placid; where collected all,</l>
                <l>In one impetuous torrent, down the ſteep</l>
                <l>
-                  <pb n="62" facs="tcp:021495_0074_0FB40490C33968B0"/>It thundering ſhoots, and ſhakes the country round.</l>
+                  <pb n="62" facs="unknown:021495_0074_0FB40490C33968B0"/>It thundering ſhoots, and ſhakes the country round.</l>
                <l>At firſt, an azure ſheet, it ruſhes broad;</l>
                <l>Then whitening by degrees, as prone it falls,<milestone type="tcpmilestone" unit="unspecified" n="595"/>
                </l>
@@ -2788,7 +2789,7 @@ SUMMER.</head>
                <l>BESIDE the dewy border let me ſit,</l>
                <l>All in the freſhneſs of the humid air;</l>
                <l>
-                  <pb n="63" facs="tcp:021495_0075_0FB4049191E223E8"/>There in that hollow'd rock, groteſque and wild,</l>
+                  <pb n="63" facs="unknown:021495_0075_0FB4049191E223E8"/>There in that hollow'd rock, groteſque and wild,</l>
                <l>An ample chair moſs-lin'd, and over head <milestone type="tcpmilestone" unit="unspecified" n="625"/>
                </l>
                <l>By flowering umbrage ſhaded; where the bee</l>
@@ -2827,7 +2828,7 @@ SUMMER.</head>
                <l>That on the high equator ridgy riſe,</l>
                <l>Whence many a burſting ſtream auriferous plays:</l>
                <l>
-                  <pb n="64" facs="tcp:021495_0076_0FB4049312D8EF98"/>Majeſtic woods, of every vigorous green,</l>
+                  <pb n="64" facs="unknown:021495_0076_0FB4049312D8EF98"/>Majeſtic woods, of every vigorous green,</l>
                <l>Stage above ſtage, high-waving o'er the hills; <milestone type="tcpmilestone" unit="unspecified" n="650"/>
                </l>
                <l>Or to the far horiſon wide diffus'd,</l>
@@ -2872,7 +2873,7 @@ SUMMER.</head>
                </l>
                <l>More bounteous far than all the frantic juice</l>
                <l>
-                  <pb n="65" facs="tcp:021495_0077_0FB40494917281C8"/>Which <hi>Bacchus</hi> pours. Nor, on its ſlender twigs</l>
+                  <pb n="65" facs="unknown:021495_0077_0FB40494917281C8"/>Which <hi>Bacchus</hi> pours. Nor, on its ſlender twigs</l>
                <l>Low-bending, be the full pomegranate ſcorn'd;</l>
                <l>Nor, creeping thro' the woods, the gelid race</l>
                <l>Of berries. Oft in humble ſtation dwells <milestone type="tcpmilestone" unit="unspecified" n="675"/>
@@ -2916,7 +2917,7 @@ SUMMER.</head>
                <l>
                   <note n="†" place="bottom">The Hippopotamus, or river-horſe.</note> Behemoth rears his head. Glanc'd from his ſide,</l>
                <l>
-                  <pb n="66" facs="tcp:021495_0078_0FB404960FD7F438"/>The darted ſteel in idle ſhivers flies:</l>
+                  <pb n="66" facs="unknown:021495_0078_0FB404960FD7F438"/>The darted ſteel in idle ſhivers flies:</l>
                <l>He fearleſs walks the plain, or ſeeks the hills;</l>
                <l>Where, as he crops the vary'd fare, the herds <milestone type="tcpmilestone" unit="unspecified" n="705"/>
                </l>
@@ -2956,7 +2957,7 @@ SUMMER.</head>
                </l>
                <l>Array'd in all the beauteous beams of day,</l>
                <l>
-                  <pb n="67" facs="tcp:021495_0079_0FB4049791075830"/>Yet frugal ſtill, ſhe humbles them in ſong.</l>
+                  <pb n="67" facs="unknown:021495_0079_0FB4049791075830"/>Yet frugal ſtill, ſhe humbles them in ſong.</l>
                <l>Nor envy we the gaudy robes they lent</l>
                <l>Proud <hi>Montezuma</hi>'s realm, whoſe legions caſt</l>
                <l>A boundleſs radiance waving on the ſun,<milestone type="tcpmilestone" unit="unspecified" n="735"/>
@@ -2999,7 +3000,7 @@ SUMMER.</head>
                <l>Where palaces, and fanes, and villas riſe;</l>
                <l>And gardens ſmile around, and cultur'd fields;</l>
                <l>
-                  <pb n="68" facs="tcp:021495_0080_0FB40499BA0C32F0"/>And fountains guſh; and careleſs herds and flocks</l>
+                  <pb n="68" facs="unknown:021495_0080_0FB40499BA0C32F0"/>And fountains guſh; and careleſs herds and flocks</l>
                <l>Securely ſtray; a world within itſelf,</l>
                <l>Diſdaining all aſſault: there let me draw <milestone type="tcpmilestone" unit="unspecified" n="765"/>
                </l>
@@ -3042,7 +3043,7 @@ SUMMER.</head>
                </l>
             </lg>
             <lg>
-               <pb n="69" facs="tcp:021495_0081_0FB4049A90A19180"/>
+               <pb n="69" facs="unknown:021495_0081_0FB4049A90A19180"/>
                <l>THE treaſures theſe, hid from the bounded ſearch</l>
                <l>Of ancient knowledge; whence, with annual pomp,</l>
                <l>Rich king of floods! o'erflows the ſwelling <hi>Nile.</hi>
@@ -3086,7 +3087,7 @@ SUMMER.</head>
                <l>And pour untoiling harveſt o'er the land.</l>
             </lg>
             <lg>
-               <pb n="70" facs="tcp:021495_0082_0FB4049C0E6FC530"/>
+               <pb n="70" facs="unknown:021495_0082_0FB4049C0E6FC530"/>
                <l>NOR leſs thy world, COLUMBUS, drinks, refreſh'd,</l>
                <l>The laviſh moiſture of the melting year.<milestone type="tcpmilestone" unit="unspecified" n="825"/>
                </l>
@@ -3128,7 +3129,7 @@ SUMMER.</head>
                <l>BUT what avails this wondrous waſte of wealth?</l>
                <l>This gay profuſion of luxurious bliſs?</l>
                <l>
-                  <pb n="71" facs="tcp:021495_0083_0FB4049E40935AA8"/>This pomp of Nature? what their balmy meads,</l>
+                  <pb n="71" facs="unknown:021495_0083_0FB4049E40935AA8"/>This pomp of Nature? what their balmy meads,</l>
                <l>Their powerful herbs, and <hi>Ceres</hi> void of pain?<milestone type="tcpmilestone" unit="unspecified" n="855"/>
                </l>
                <l>By vagrant birds diſpers'd, and wafting winds,</l>
@@ -3171,7 +3172,7 @@ SUMMER.</head>
                <l>Of milder climes; in ſelfiſh fierce deſire,</l>
                <l>And the wild fury of voluptuous ſenſe,</l>
                <l>
-                  <pb n="72" facs="tcp:021495_0084_0FB4049F0F584C88"/>There loſt. The very brute-creation there</l>
+                  <pb n="72" facs="unknown:021495_0084_0FB4049F0F584C88"/>There loſt. The very brute-creation there</l>
                <l>This rage partakes, and burns with horrid fire.</l>
             </lg>
             <lg>
@@ -3214,7 +3215,7 @@ SUMMER.</head>
                <l>Demand their fated food. The fearful flocks <milestone type="tcpmilestone" unit="unspecified" n="920"/>
                </l>
                <l>
-                  <pb n="73" facs="tcp:021495_0085_0FB404A08FF5E830"/>Crowd near the guardian ſwain; the nobler herds,</l>
+                  <pb n="73" facs="unknown:021495_0085_0FB404A08FF5E830"/>Crowd near the guardian ſwain; the nobler herds,</l>
                <l>Where round their lordly bull, in rural eaſe,</l>
                <l>They ruminating lie, with horror hear</l>
                <l>The coming rage. Th' awaken'd village ſtarts;</l>
@@ -3269,7 +3270,7 @@ SUMMER.</head>
                      <desc>•</desc>
                   </gap> oft, angels of wrath,</l>
                <l>
-                  <pb n="74" facs="tcp:021495_0086_0FB404A210062088"/>Let looſe the raging elements. Breath'd hot,</l>
+                  <pb n="74" facs="unknown:021495_0086_0FB404A210062088"/>Let looſe the raging elements. Breath'd hot,</l>
                <l>From all the boundleſs furnace of the ſky,</l>
                <l>And the wide glittering waſte of burning ſand,<milestone type="tcpmilestone" unit="unspecified" n="935"/>
                </l>
@@ -3321,7 +3322,7 @@ SUMMER.</head>
                </l>
                <l>Of no regard, ſave to the ſkilful eye,</l>
                <l>
-                  <pb n="75" facs="tcp:021495_0087_0FB404A39A20DF90"/>Fiery and ſoul, the ſmall prognoſtic hangs</l>
+                  <pb n="75" facs="unknown:021495_0087_0FB404A39A20DF90"/>Fiery and ſoul, the ſmall prognoſtic hangs</l>
                <l>Alo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>t, or on the promontory's brow</l>
@@ -3372,7 +3373,7 @@ SUMMER.</head>
                <l>Of ſtreaming crowds, of rank diſeaſe, and death,</l>
                <l>Behold! he ruſhing cuts the briny flood,</l>
                <l>
-                  <pb n="76" facs="tcp:021495_0088_0FB404A511526708"/>Swift as the gale can bear the ſhip along; <milestone type="tcpmilestone" unit="unspecified" n="1010"/>
+                  <pb n="76" facs="unknown:021495_0088_0FB404A511526708"/>Swift as the gale can bear the ſhip along; <milestone type="tcpmilestone" unit="unspecified" n="1010"/>
                </l>
                <l>And, from the partners of that cruel trade,</l>
                <l>Which ſpoils unhappy <hi>Guinea</hi> of her ſons,</l>
@@ -3418,7 +3419,7 @@ SUMMER.</head>
                </l>
                <l>The frequent corſe; while on each other fix'd,</l>
                <l>
-                  <pb n="77" facs="tcp:021495_0089_0FB404A7517F3B98"/>In ſad preſage, the blank aſſiſtants ſeem'd,</l>
+                  <pb n="77" facs="unknown:021495_0089_0FB404A7517F3B98"/>In ſad preſage, the blank aſſiſtants ſeem'd,</l>
                <l>Silent, to aſk, whom fate would next demand.</l>
             </lg>
             <lg>
@@ -3460,7 +3461,7 @@ SUMMER.</head>
                <l>Fearing to turn, abhors ſociety.</l>
                <l>Dependants, friends, relations, Love himſelf,</l>
                <l>
-                  <pb n="78" facs="tcp:021495_0090_0FB404A8CFDEAAF8"/>Savag'd by woe, forget the tender tie,</l>
+                  <pb n="78" facs="unknown:021495_0090_0FB404A8CFDEAAF8"/>Savag'd by woe, forget the tender tie,</l>
                <l>The ſweet engagement of the feeling heart.</l>
                <l>But vain their ſelfiſh care: the circling ſky,<milestone type="tcpmilestone" unit="unspecified" n="1075"/>
                </l>
@@ -3517,7 +3518,7 @@ SUMMER.</head>
                <l>Pollute the ſky, and in yon baleful cloud,</l>
                <l>A reddening gloom, a magazine of ſate,</l>
                <l>
-                  <pb n="79" facs="tcp:021495_0091_0FB404AA5339EBB8"/>Ferment; till, by the touch ethereal rous'd,<milestone type="tcpmilestone" unit="unspecified" n="1105"/>
+                  <pb n="79" facs="unknown:021495_0091_0FB404AA5339EBB8"/>Ferment; till, by the touch ethereal rous'd,<milestone type="tcpmilestone" unit="unspecified" n="1105"/>
                </l>
                <l>The daſh of clouds, or irritating war</l>
                <l>Of fighting winds, while all is calm below,</l>
@@ -3565,7 +3566,7 @@ SUMMER.</head>
                </l>
             </lg>
             <lg>
-               <pb n="80" facs="tcp:021495_0092_0FB404ABCF20FC60"/>
+               <pb n="80" facs="unknown:021495_0092_0FB404ABCF20FC60"/>
                <l>DOWN comes a deluge of ſonorous hail,</l>
                <l>Or prone-deſcending rain. Wide-rent, the clouds.</l>
                <l>Pour a whole flood; and yet, its flame unquench'd,</l>
@@ -3610,7 +3611,7 @@ SUMMER.</head>
                      <desc>•</desc>
                   </gap>one:</l>
                <l>
-                  <pb n="81" facs="tcp:021495_0093_0FB404AD503882F8"/>Hers the mild luſtre of the blooming morn,</l>
+                  <pb n="81" facs="unknown:021495_0093_0FB404AD503882F8"/>Hers the mild luſtre of the blooming morn,</l>
                <l>And his the radiance of the riſen day.</l>
             </lg>
             <lg>
@@ -3656,7 +3657,7 @@ SUMMER.</head>
                </l>
                <l>With love illumin'd high. "Fear not," he ſaid,</l>
                <l>
-                  <pb n="82" facs="tcp:021495_0094_0FB404AED20B4B10"/>"Sweet innocence! thou ſtranger to offence,</l>
+                  <pb n="82" facs="unknown:021495_0094_0FB404AED20B4B10"/>"Sweet innocence! thou ſtranger to offence,</l>
                <l>"And inward ſtorm! He who you ſkies involves</l>
                <l>"In frowns of darkneſs, ever ſmiles on thee,</l>
                <l>"With kind regard. O'er thee the ſecret ſhaft <milestone type="tcpmilestone" unit="unspecified" n="1200"/>
@@ -3700,7 +3701,7 @@ SUMMER.</head>
                </l>
                <l>Join'd to the low of kine, and numerous bleat</l>
                <l>
-                  <pb n="83" facs="tcp:021495_0095_0FB404B04FFDF2C8"/>Of flocks thick-nibbling thro' the clover'd vale.</l>
+                  <pb n="83" facs="unknown:021495_0095_0FB404B04FFDF2C8"/>Of flocks thick-nibbling thro' the clover'd vale.</l>
                <l>And ſhall the hymn be marr'd by thankleſs Man,</l>
                <l>Moſt-favour'd; who with voice articulate</l>
                <l>Should lead the chorus of this lower world?<milestone type="tcpmilestone" unit="unspecified" n="1230"/>
@@ -3743,7 +3744,7 @@ SUMMER.</head>
                <l>That roſe victorious o'er the conquer'd earth,</l>
                <l>Firſt learn'd, while tender, to ſubdue the wave.</l>
                <l>
-                  <pb n="84" facs="tcp:021495_0096_0FB404B1DD7686B8"/>Even, from the body's purity, the mind</l>
+                  <pb n="84" facs="unknown:021495_0096_0FB404B1DD7686B8"/>Even, from the body's purity, the mind</l>
                <l>Receives a ſecret ſympathetic aid.<milestone type="tcpmilestone" unit="unspecified" n="1260"/>
                </l>
             </lg>
@@ -3788,7 +3789,7 @@ SUMMER.</head>
                </l>
                <l>Say, ye ſevereſt, what would you have done?</l>
                <l>
-                  <pb n="85" facs="tcp:021495_0097_0FB404B34EFBBD38"/>Meantime, this fairer nymph than ever bleſt</l>
+                  <pb n="85" facs="unknown:021495_0097_0FB404B34EFBBD38"/>Meantime, this fairer nymph than ever bleſt</l>
                <l>
                   <hi>Arcadian</hi> ſtream, with timid eye around</l>
                <l>The banks ſurveying, ſtrip'd her beauteous limbs,</l>
@@ -3832,7 +3833,7 @@ SUMMER.</head>
                <l>That half-embrac'd her in a humid veil,</l>
                <l>Riſing again, the latent DAMON drew</l>
                <l>
-                  <pb n="86" facs="tcp:021495_0098_0FB404B4D00B21C8"/>Such madning draughts of beauty to the ſoul.</l>
+                  <pb n="86" facs="unknown:021495_0098_0FB404B4D00B21C8"/>Such madning draughts of beauty to the ſoul.</l>
                <l>As for a while o'erwhelm'd his raptur'd thought <milestone type="tcpmilestone" unit="unspecified" n="1325"/>
                </l>
                <l>With luxury too daring. Check'd, at laſt,</l>
@@ -3876,7 +3877,7 @@ SUMMER.</head>
                <l>And on the ſpreading beach, that o'er the ſtream <milestone type="tcpmilestone" unit="unspecified" n="1355"/>
                </l>
                <l>
-                  <pb n="87" facs="tcp:021495_0099_0FB404B6502EAB70"/>Incumbent hung, ſhe with the ſilvan pen</l>
+                  <pb n="87" facs="unknown:021495_0099_0FB404B6502EAB70"/>Incumbent hung, ſhe with the ſilvan pen</l>
                <l>Of rural lovers this confeſſion carv'd,</l>
                <l>Which ſoon her DAMON kiſs'd with weeping joy:</l>
                <l>"Dear youth! ſole judge of what theſe verſes mean,</l>
@@ -3921,7 +3922,7 @@ SUMMER.</head>
                <l>By that kind <hi>School</hi> where no proud maſter reigns,</l>
                <l>The full free converſe of the friendly heart</l>
                <l>
-                  <pb n="88" facs="tcp:021495_0100_0FB404B7CE7AFC48"/>Improving and improv'd. Now from the world,</l>
+                  <pb n="88" facs="unknown:021495_0100_0FB404B7CE7AFC48"/>Improving and improv'd. Now from the world,</l>
                <l>Sacred to ſweet retirement, lovers ſteal,<milestone type="tcpmilestone" unit="unspecified" n="1390"/>
                </l>
                <l>And pour their ſouls in tranſport, which the SIRE</l>
@@ -3965,7 +3966,7 @@ SUMMER.</head>
                <l>Slow let us trace the matchleſs VALE OF THAMES;</l>
                <l>Fair-winding up to where the Muſes haunt</l>
                <l>
-                  <pb n="89" facs="tcp:021495_0101_0FB404B95003D2B0"/>In <hi>Twi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="89" facs="unknown:021495_0101_0FB404B95003D2B0"/>In <hi>Twi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>nam</hi>'s bowers, and for their POPE implore</l>
                <l>The healing God <note n="*" place="bottom">In his laſt ſickneſs.</note>, to royal <hi>Hampton</hi>'s pile,<milestone type="tcpmilestone" unit="unspecified" n="1420"/>
@@ -4015,7 +4016,7 @@ SUMMER.</head>
                <l>Pleas'd, and unweary'd, in his guarded toil.</l>
             </lg>
             <lg>
-               <pb n="90" facs="tcp:021495_0102_0FB404BAD01D7D00"/>
+               <pb n="90" facs="unknown:021495_0102_0FB404BAD01D7D00"/>
                <l>FULL are thy cities with the ſons of art;</l>
                <l>And trade and joy, in every buſy ſtreet,<milestone type="tcpmilestone" unit="unspecified" n="1450"/>
                </l>
@@ -4059,7 +4060,7 @@ SUMMER.</head>
                </l>
                <l>Names dear to fame; the firſt who deep impreſs'd</l>
                <l>
-                  <pb n="91" facs="tcp:021495_0103_0FB404BC50F4A708"/>On haughty <hi>Gaul</hi> the terror of thy arms,</l>
+                  <pb n="91" facs="unknown:021495_0103_0FB404BC50F4A708"/>On haughty <hi>Gaul</hi> the terror of thy arms,</l>
                <l>That awes her genius ſtill. In <hi>Stateſmen</hi> thou,</l>
                <l>And <hi>Patriots,</hi> fertile. Thine a ſteady MORE,<milestone type="tcpmilestone" unit="unspecified" n="1480"/>
                </l>
@@ -4104,7 +4105,7 @@ SUMMER.</head>
                </l>
                <l>Bright, at his call, thy age of <hi>Men</hi> effulg'd,</l>
                <l>
-                  <pb n="92" facs="tcp:021495_0104_0FB404BDCE683F68"/>Of Men on whom late time a kindling eye</l>
+                  <pb n="92" facs="unknown:021495_0104_0FB404BDCE683F68"/>Of Men on whom late time a kindling eye</l>
                <l>Shall turn, and tyrants tremble while they read.</l>
                <l>Bring every ſweeteſt flower, and let me ſtrow</l>
                <l>The grave where RUSSEL lies; whoſe temper'd blood</l>
@@ -4142,7 +4143,7 @@ SUMMER.</head>
                <l>Inveſtigating ſure the chain of things,</l>
                <l>With radiant finger points to HEAVEN again.</l>
                <l>
-                  <pb n="93" facs="tcp:021495_0105_0FB404BF503C47D0"/>The generous <note n="†" place="bottom">ANTHONY ASHLEY COOPER, Earl of <hi>Shafteſbury.</hi>
+                  <pb n="93" facs="unknown:021495_0105_0FB404BF503C47D0"/>The generous <note n="†" place="bottom">ANTHONY ASHLEY COOPER, Earl of <hi>Shafteſbury.</hi>
                   </note> ASHLEY thine, the friend of Man;</l>
                <l>Who ſcann'd his Nature with a brother's eye,</l>
                <l>His weakneſs prompt to ſhade, to raiſe his aim,<milestone type="tcpmilestone" unit="unspecified" n="1545"/>
@@ -4183,7 +4184,7 @@ SUMMER.</head>
                <l>MAY my ſong ſoften, as thy DAUGHTERS I,</l>
                <l>BRITANNIA, hail! for beauty is their own,</l>
                <l>
-                  <pb n="94" facs="tcp:021495_0106_0FB404C182DC5878"/>The feeling heart, ſimplicity of life,</l>
+                  <pb n="94" facs="unknown:021495_0106_0FB404C182DC5878"/>The feeling heart, ſimplicity of life,</l>
                <l>And elegance, and taſte: the faultleſs form,<milestone type="tcpmilestone" unit="unspecified" n="1575"/>
                </l>
                <l>Shap'd by the hand of harmony; the cheek,</l>
@@ -4227,7 +4228,7 @@ SUMMER.</head>
                </l>
                <l>With bluſhes reddening as ſhe moves along,</l>
                <l>
-                  <pb n="95" facs="tcp:021495_0107_0FB404C24FECFB08"/>Diſorder'd at the deep regard ſhe draws;</l>
+                  <pb n="95" facs="unknown:021495_0107_0FB404C24FECFB08"/>Diſorder'd at the deep regard ſhe draws;</l>
                <l>Rough <hi>Induſtry; Activity</hi> untir'd,<milestone type="tcpmilestone" unit="unspecified" n="1605"/>
                </l>
                <l>With copious life inform'd, and all awake:</l>
@@ -4272,7 +4273,7 @@ SUMMER.</head>
                <l>Diffuſing kind beneficence around,<milestone type="tcpmilestone" unit="unspecified" n="1635"/>
                </l>
                <l>
-                  <pb n="96" facs="tcp:021495_0108_0FB404C3CFF01018"/>Boaſtleſs, as now deſcends the ſilent dew;</l>
+                  <pb n="96" facs="unknown:021495_0108_0FB404C3CFF01018"/>Boaſtleſs, as now deſcends the ſilent dew;</l>
                <l>To him the long review of order'd life</l>
                <l>Is inward rapture, only to be felt.</l>
             </lg>
@@ -4316,7 +4317,7 @@ SUMMER.</head>
                <l>In various game, and revelry to paſs</l>
                <l>The ſummer-night, as village-ſtories tell.</l>
                <l>
-                  <pb n="97" facs="tcp:021495_0109_0FB404C54EC97620"/>But far about they wander from the grave</l>
+                  <pb n="97" facs="unknown:021495_0109_0FB404C54EC97620"/>But far about they wander from the grave</l>
                <l>Of him, whom his ungentle fortune urg'd</l>
                <l>Againſt his own ſad breaſt to lift the hand <milestone type="tcpmilestone" unit="unspecified" n="1670"/>
                </l>
@@ -4361,7 +4362,7 @@ SUMMER.</head>
                <l>The ruſhing comet to the ſun deſcends; <milestone type="tcpmilestone" unit="unspecified" n="1700"/>
                </l>
                <l>
-                  <pb n="98" facs="tcp:021495_0110_0FB404C6D0C05868"/>And as he ſinks below the ſhading earth,</l>
+                  <pb n="98" facs="unknown:021495_0110_0FB404C6D0C05868"/>And as he ſinks below the ſhading earth,</l>
                <l>With awful train projected o'er the heavens,</l>
                <l>The guilty nations tremble. But, above</l>
                <l>Thoſe ſuperſtitious horrors that enſlave</l>
@@ -4403,7 +4404,7 @@ SUMMER.</head>
                <l>That bind the fluttering crowd; and, angel-wing'd,</l>
                <l>The heights of ſcience and of virtue gains,</l>
                <l>
-                  <pb n="99" facs="tcp:021495_0111_0FB404C8500D19B0"/>Where all is calm and clear; with Nature round</l>
+                  <pb n="99" facs="unknown:021495_0111_0FB404C8500D19B0"/>Where all is calm and clear; with Nature round</l>
                <l>Or in the ſtarry regions, or th' abyſs,<milestone type="tcpmilestone" unit="unspecified" n="1735"/>
                </l>
                <l>To reaſon's and to fancy's eye diſplay'd:</l>
@@ -4447,7 +4448,7 @@ SUMMER.</head>
                <l>Whoſe horrid circle had made human life <milestone type="tcpmilestone" unit="unspecified" n="1765"/>
                </l>
                <l>
-                  <pb n="100" facs="tcp:021495_0112_0FB404C9CFF60F40"/>Than non-exiſtence worſe: but, taught by thee,</l>
+                  <pb n="100" facs="unknown:021495_0112_0FB404C9CFF60F40"/>Than non-exiſtence worſe: but, taught by thee,</l>
                <l>Ours are the plans of policy, and peace;</l>
                <l>To live like brothers, and conjunctive all</l>
                <l>Embelliſh life. While thus laborious crowds</l>
@@ -4492,7 +4493,7 @@ SUMMER.</head>
             </lg>
          </div>
          <div type="illustration">
-            <pb facs="tcp:021495_0113_0FB404CB4EC75728"/>
+            <pb facs="unknown:021495_0113_0FB404CB4EC75728"/>
             <p>
                <figure>
                   <head>AUTUMN</head>
@@ -4500,15 +4501,15 @@ SUMMER.</head>
             </p>
          </div>
          <div type="poem">
-            <pb facs="tcp:021495_0114_0FB404CD77FD7730"/>
+            <pb facs="unknown:021495_0114_0FB404CD77FD7730"/>
             <head>AUTUMN.</head>
             <argument>
-               <pb facs="tcp:021495_0115_0FB404CE546E6860"/>
+               <pb facs="unknown:021495_0115_0FB404CE546E6860"/>
                <head>The ARGUMENT.</head>
                <p>The ſubject propoſed. Addreſſed to Mr <hi>ONSLOW.</hi> A proſpect of the fields ready for harveſt. Reflections in praiſe of induſtry rais'd by that view. Reaping. A tale relative to it. A harveſt-ſtorm. Shooting and hunting, their barbarity. A ludicrous account of fox-hunting. A view of an orchard. Wall-fruit. A vineyard. A deſcription of fogs, frequent in the latter part of <hi>Autumn:</hi> whence a digreſſion, enquiring into the riſe of fountains and rivers. Birds of ſeaſon con<g ref="char:EOLhyphen"/>ſidered, that now ſhift their habitation. The prodigi<g ref="char:EOLhyphen"/>ous number of them that cover the northern and weſtern iſles of <hi>SCOTLAND.</hi> Hence a view of the country. A proſpect of the diſcoloured, fading woods. After a gen<g ref="char:EOLhyphen"/>tle duſky day, moon-light. Autumnal meteors. Morn<g ref="char:EOLhyphen"/>ing: to which ſucceeds a calm, pure, ſun-ſhiny day, ſuch as uſually ſhuts up the ſeaſon. The harveſt being gathered in, the country diſſolved in joy. The whole concludes with a panegyric on a philoſophical country life.</p>
             </argument>
             <head>
-               <pb n="103" facs="tcp:021495_0116_0FB404CFD1649748"/>
+               <pb n="103" facs="unknown:021495_0116_0FB404CFD1649748"/>
 AUTUMN.</head>
             <lg>
                <l>CROWN'D with the ſickle and the wheaten ſheaf,</l>
@@ -4547,7 +4548,7 @@ AUTUMN.</head>
                <l>WHEN the bright <hi>Virgin</hi> gives the beauteous days,</l>
                <l>And <hi>Libra</hi> weighs in equal ſcales the year;</l>
                <l>
-                  <pb n="104" facs="tcp:021495_0117_0FB404D1504DB4C0"/>From heaven's high cope the fierce effulgence ſhook <milestone type="tcpmilestone" unit="unspecified" n="25"/>
+                  <pb n="104" facs="unknown:021495_0117_0FB404D1504DB4C0"/>From heaven's high cope the fierce effulgence ſhook <milestone type="tcpmilestone" unit="unspecified" n="25"/>
                </l>
                <l>Of parting ſummer, a ſerener blue,</l>
                <l>With golden light enliven'd, wide inveſts</l>
@@ -4591,7 +4592,7 @@ AUTUMN.</head>
                <l>Of bounty ſcatter'd o'er the ſavage year:</l>
                <l>And ſtill the ſad barbarian, roving, mix'd</l>
                <l>
-                  <pb n="105" facs="tcp:021495_0118_0FB404D2D8B14A00"/>With beaſts of prey; or for his acorn-meal</l>
+                  <pb n="105" facs="unknown:021495_0118_0FB404D2D8B14A00"/>With beaſts of prey; or for his acorn-meal</l>
                <l>Fought the fierce tuſky boar; a ſhivering wretch!</l>
                <l>Aghaſt, and comfortleſs, when the bleak north,<milestone type="tcpmilestone" unit="unspecified" n="60"/>
                </l>
@@ -4633,7 +4634,7 @@ AUTUMN.</head>
                </l>
                <l>But ſtill advancing bolder, led him on,</l>
                <l>
-                  <pb n="106" facs="tcp:021495_0119_0FB404D512E21758"/>To pomp, to pleaſure, elegance, and grace;</l>
+                  <pb n="106" facs="unknown:021495_0119_0FB404D512E21758"/>To pomp, to pleaſure, elegance, and grace;</l>
                <l>And, breathing high ambition thro' his ſoul,</l>
                <l>Set ſcience, wiſdom, glory, in his view,</l>
                <l>And bade him be the <hi>Lord</hi> of all below.<milestone type="tcpmilestone" unit="unspecified" n="95"/>
@@ -4677,7 +4678,7 @@ AUTUMN.</head>
                <l>With foreign plenty; and thy ſtream, O THAMES, 121</l>
                <l>Large, gentle, deep, majeſtic, king of floods!</l>
                <l>
-                  <pb n="107" facs="tcp:021495_0120_0FB404D69043BA10"/>
+                  <pb n="107" facs="unknown:021495_0120_0FB404D69043BA10"/>
                   <note n="*" place="bottom">This line not in the laſt Edition.</note> Than whom no river heaves a fuller tide,</l>
                <l>Choſe for his grand reſort. On either hand,</l>
                <l>Like a long wint'ry foreſt, groves of maſts <milestone type="tcpmilestone" unit="unspecified" n="125"/>
@@ -4719,7 +4720,7 @@ AUTUMN.</head>
                <l>That, waving round, recall my wandering ſong.</l>
             </lg>
             <lg>
-               <pb n="108" facs="tcp:021495_0121_0FB404D80F318AA8"/>
+               <pb n="108" facs="unknown:021495_0121_0FB404D80F318AA8"/>
                <l>SOON as the morning trembles o'er the ſky,</l>
                <l>And, unperceiv'd, unfolds the ſpreading day;</l>
                <l>Before the ripen'd field the reapers ſtand,</l>
@@ -4759,7 +4760,7 @@ AUTUMN.</head>
                </l>
                <l>Of every ſtay, ſave Innocence and HEAVEN,</l>
                <l>
-                  <pb n="109" facs="tcp:021495_0122_0FB404D990F199C8"/>She with her widow'd mother, feeble, old,</l>
+                  <pb n="109" facs="unknown:021495_0122_0FB404D990F199C8"/>She with her widow'd mother, feeble, old,</l>
                <l>And poor, liv'd in a cottage, far retir'd</l>
                <l>Among the windings of a woody vale;</l>
                <l>By ſolitude and deep ſurrounding ſhades,<milestone type="tcpmilestone" unit="unspecified" n="185"/>
@@ -4799,7 +4800,7 @@ AUTUMN.</head>
                <l>A myrtle riſes, far from human eye,</l>
                <l>And breathes its balmy fragrance o'er the wild;</l>
                <l>
-                  <pb n="110" facs="tcp:021495_0123_0FB404DB0FC98100"/>So flouriſh'd blooming, and unſeen by all,</l>
+                  <pb n="110" facs="unknown:021495_0123_0FB404DB0FC98100"/>So flouriſh'd blooming, and unſeen by all,</l>
                <l>The ſweet LAVINIA: till, at length, compell'd <milestone type="tcpmilestone" unit="unspecified" n="215"/>
                </l>
                <l>By ſtrong neceſſity's ſupreme command,</l>
@@ -4846,7 +4847,7 @@ AUTUMN.</head>
                </l>
                <l>"Now to the duſt gone down; his houſes, lands,</l>
                <l>
-                  <pb n="111" facs="tcp:021495_0124_0FB404DC91308EF8"/>"And once fair-ſpreading family, diſſolv'd.</l>
+                  <pb n="111" facs="unknown:021495_0124_0FB404DC91308EF8"/>"And once fair-ſpreading family, diſſolv'd.</l>
                <l>"'Tis ſaid that in ſome lone obſcure retreat,</l>
                <l>"Urg'd by remembrance ſad, and decent pride,</l>
                <l>"Far from thoſe ſcenes which knew their better days,</l>
@@ -4887,7 +4888,7 @@ AUTUMN.</head>
                </l>
                <l>"Into ſuch beauty ſpread, and blown ſo fair;</l>
                <l>
-                  <pb n="112" facs="tcp:021495_0125_0FB404DEB0C4D530"/>"Tho' poverty's cold wind, and cruſhing rain,</l>
+                  <pb n="112" facs="unknown:021495_0125_0FB404DEB0C4D530"/>"Tho' poverty's cold wind, and cruſhing rain,</l>
                <l>"Beat keen, and heavy, on thy tender years?</l>
                <l>"O let me now, into a richer ſoil,</l>
                <l>"Tranſplant thee ſafe! where vernal ſuns, and ſhowers,</l>
@@ -4932,7 +4933,7 @@ AUTUMN.</head>
                <l>Not leſs enraptur'd than the happy pair;</l>
                <l>Who flouriſh'd long in tender bliſs, and rear'd</l>
                <l>
-                  <pb n="113" facs="tcp:021495_0126_0FB404DF8F21B3F8"/>A numerous offspring, lovely like themſelves,<milestone type="tcpmilestone" unit="unspecified" n="310"/>
+                  <pb n="113" facs="unknown:021495_0126_0FB404DF8F21B3F8"/>A numerous offspring, lovely like themſelves,<milestone type="tcpmilestone" unit="unspecified" n="310"/>
                </l>
                <l>And good, the grace of all the country round.</l>
             </lg>
@@ -4977,7 +4978,7 @@ AUTUMN.</head>
                <l>Roll mingled down; all that the winds had ſpar'd,</l>
                <l>In one wild moment ruin'd; the big hopes,</l>
                <l>
-                  <pb n="114" facs="tcp:021495_0127_0FB404E1103A7310"/>And well-earn'd treaſures of the painful year.</l>
+                  <pb n="114" facs="unknown:021495_0127_0FB404E1103A7310"/>And well-earn'd treaſures of the painful year.</l>
                <l>Fled to ſome eminence, the huſbandman,<milestone type="tcpmilestone" unit="unspecified" n="345"/>
                </l>
                <l>Helpleſs beholds the miſerable wreck</l>
@@ -5025,7 +5026,7 @@ AUTUMN.</head>
                </l>
                <l>O'ertakes their ſounding pinions; and again,</l>
                <l>
-                  <pb n="115" facs="tcp:021495_0128_0FB404E29FBC8EB8"/>Immediate, brings them from the towering wing,</l>
+                  <pb n="115" facs="unknown:021495_0128_0FB404E29FBC8EB8"/>Immediate, brings them from the towering wing,</l>
                <l>Dead to the ground; or drives them wide-diſpers'd,</l>
                <l>Wounded, and wheeling various, down the wind.</l>
             </lg>
@@ -5068,7 +5069,7 @@ AUTUMN.</head>
                </l>
                <l>The thiſtly lawn; the thick intangled broom;</l>
                <l>
-                  <pb n="116" facs="tcp:021495_0129_0FB404E40FD63EB8"/>Of the ſame friendly hue, the wither'd fern:</l>
+                  <pb n="116" facs="unknown:021495_0129_0FB404E40FD63EB8"/>Of the ſame friendly hue, the wither'd fern:</l>
                <l>The fallow ground laid open to the ſun,</l>
                <l>Concoctive; and the nodding ſandy bank,</l>
                <l>Hung o'er the mazes of the mountain brook.<milestone type="tcpmilestone" unit="unspecified" n="410"/>
@@ -5110,7 +5111,7 @@ AUTUMN.</head>
                <l>He burſts the thickets, glances thro' the glades,</l>
                <l>And plunges deep into the wildeſt wood;</l>
                <l>
-                  <pb n="117" facs="tcp:021495_0130_0FB404E58FF15450"/>If ſlow, yet ſure, adheſive to the track</l>
+                  <pb n="117" facs="unknown:021495_0130_0FB404E58FF15450"/>If ſlow, yet ſure, adheſive to the track</l>
                <l>Hot-ſteaming, up behind him <note n="*" place="bottom">come</note> comes again</l>
                <l>Th' inhuman rout, and from the ſhady depth <milestone type="tcpmilestone" unit="unspecified" n="440"/>
                </l>
@@ -5154,7 +5155,7 @@ AUTUMN.</head>
                </l>
             </lg>
             <lg>
-               <pb n="118" facs="tcp:021495_0131_0FB404E70F2BA6D8"/>
+               <pb n="118" facs="unknown:021495_0131_0FB404E70F2BA6D8"/>
                <l>THESE BRITAIN knows not; give, ye BRITONS, then,</l>
                <l>Your ſportive fury, pityleſs, to pour</l>
                <l>Looſe on the nightly robber of the fold:</l>
@@ -5195,7 +5196,7 @@ AUTUMN.</head>
                <l>And their repeated wonders ſhake the dome.</l>
             </lg>
             <lg>
-               <pb n="119" facs="tcp:021495_0132_0FB404E88FCB4A08"/>
+               <pb n="119" facs="unknown:021495_0132_0FB404E88FCB4A08"/>
                <l>BUT firſt the fuel'd chimney blazes wide;</l>
                <l>The tankards foam; and the ſtrong table groans</l>
                <l>Beneath the ſmoaking ſirloin, ſtretch'd immenſe <milestone type="tcpmilestone" unit="unspecified" n="505"/>
@@ -5238,7 +5239,7 @@ AUTUMN.</head>
                <l>Cloſe in firm circle; and ſet, ardent, in</l>
                <l>For ſerious drinking. Nor evaſion ſly,</l>
                <l>
-                  <pb n="120" facs="tcp:021495_0133_0FB404EA0F13ECA0"/>Nor ſober ſhift is to the puking wretch <milestone type="tcpmilestone" unit="unspecified" n="535"/>
+                  <pb n="120" facs="unknown:021495_0133_0FB404EA0F13ECA0"/>Nor ſober ſhift is to the puking wretch <milestone type="tcpmilestone" unit="unspecified" n="535"/>
                </l>
                <l>Indulg'd apart; but earneſt, briming Bowls</l>
                <l>Lave every ſoul, the table floating round,</l>
@@ -5280,7 +5281,7 @@ AUTUMN.</head>
                <l>Awful and deep, a black abyſs of drink,</l>
                <l>Out-lives them all; and from his bury'd flock</l>
                <l>
-                  <pb n="121" facs="tcp:021495_0134_0FB404EB8EBCA0F8"/>Retiring full of rumination ſad.</l>
+                  <pb n="121" facs="unknown:021495_0134_0FB404EB8EBCA0F8"/>Retiring full of rumination ſad.</l>
                <l>Laments the weakneſs of theſe latter times.</l>
                <l>But if the rougher ſex by this fierce ſport <milestone type="tcpmilestone" unit="unspecified" n="570"/>
                </l>
@@ -5326,7 +5327,7 @@ AUTUMN.</head>
                      <desc>•</desc>
                   </gap> their graces into ſecond life,</l>
                <l>
-                  <pb n="122" facs="tcp:021495_0135_0FB404ED1040DF98"/>To give Society its higheſt taſte;</l>
+                  <pb n="122" facs="unknown:021495_0135_0FB404ED1040DF98"/>To give Society its higheſt taſte;</l>
                <l>Well-ordered home Man's beſt delight to make;</l>
                <l>And by ſubmiſſive wiſdom, modeſt ſkill,</l>
                <l>With every gentle care-eluding art,<milestone type="tcpmilestone" unit="unspecified" n="605"/>
@@ -5385,7 +5386,7 @@ AUTUMN.</head>
                      <desc>•</desc>
                   </gap>emper'd ſun and water, earth, and air,</l>
                <l>
-                  <pb n="123" facs="tcp:021495_0136_0FB404EE90B41F80"/>In ever-changing compoſition mix'd.</l>
+                  <pb n="123" facs="unknown:021495_0136_0FB404EE90B41F80"/>In ever-changing compoſition mix'd.</l>
                <l>Such, falling frequent thro' the chiller night,</l>
                <l>The fragrant ſtores, the wide-projected heap<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -5440,7 +5441,7 @@ AUTUMN.</head>
                <l>Here wandering oft, fir'd with the reſtleſs thirſt</l>
                <l>Of thy applauſe, I ſolitary court</l>
                <l>
-                  <pb n="124" facs="tcp:021495_0137_0FB404F00E4A5EF8"/>Th' inſpiring breeze: and meditate the book</l>
+                  <pb n="124" facs="unknown:021495_0137_0FB404F00E4A5EF8"/>Th' inſpiring breeze: and meditate the book</l>
                <l>Of Nature ever open; aiming thence <milestone type="tcpmilestone" unit="unspecified" n="670"/>
                </l>
                <l>Warm from the heart, to learn the moral ſong.</l>
@@ -5494,7 +5495,7 @@ AUTUMN.</head>
                <l>The claret ſmooth, red as the lip we preſs</l>
                <l>In ſparkling fancy, while we drain the bowl;</l>
                <l>
-                  <pb n="125" facs="tcp:021495_0138_0FB404F18FA4D260"/>The mellow-taſted Burgundy; and quick,</l>
+                  <pb n="125" facs="unknown:021495_0138_0FB404F18FA4D260"/>The mellow-taſted Burgundy; and quick,</l>
                <l>As is the wit it gives, the gay Champaign.</l>
                <l>Now, by the cool declining year candens'd,<milestone type="tcpmilestone" unit="unspecified" n="705"/>
                </l>
@@ -5536,7 +5537,7 @@ AUTUMN.</head>
                </l>
                <l>With weighty rains, and melted Alpine ſnows,</l>
                <l>
-                  <pb n="126" facs="tcp:021495_0139_0FB404F31003AF88"/>The mountain-ciſterns fill, thoſe ample ſtores</l>
+                  <pb n="126" facs="unknown:021495_0139_0FB404F31003AF88"/>The mountain-ciſterns fill, thoſe ample ſtores</l>
                <l>Of water, ſcoop'd among the hollow rocks;</l>
                <l>Whence guſh the ſtreams, the ceaſeleſs fountains play,</l>
                <l>And their unfailing wealth the rivers draw.<milestone type="tcpmilestone" unit="unspecified" n="740"/>
@@ -5591,7 +5592,7 @@ AUTUMN.</head>
                      </gap>lion</hi>'s watery times again.<milestone type="tcpmilestone" unit="unspecified" n="770"/>
                </l>
                <l>
-                  <pb n="127" facs="tcp:021495_0140_0FB404F4905C0CA0"/>Say than, where lurk the vaſt eternal ſprings</l>
+                  <pb n="127" facs="unknown:021495_0140_0FB404F4905C0CA0"/>Say than, where lurk the vaſt eternal ſprings</l>
                <l>That, like CREATING NATURE. He conceal'd</l>
                <l>From mortal eye, yet with their laviſh ſtores</l>
                <l>Refreſh the globe, and all its joyous tribes?</l>
@@ -5645,7 +5646,7 @@ AUTUMN.</head>
                <l>The miny caverns, blazing on the day,</l>
                <l>Of <hi>Abyſſinia</hi>'s cloud-compelling cliffs,</l>
                <l>
-                  <pb n="128" facs="tcp:021495_0141_0FB404F60FD2ACA8"/>And of the bending <note n="*" place="bottom">A range of mountains in <hi>Africa,</hi> that ſurround almoſt all <hi>Monom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="128" facs="unknown:021495_0141_0FB404F60FD2ACA8"/>And of the bending <note n="*" place="bottom">A range of mountains in <hi>Africa,</hi> that ſurround almoſt all <hi>Monom<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>tapa.</hi>
                   </note> 
@@ -5694,7 +5695,7 @@ AUTUMN.</head>
                </l>
                <l>In bounteous rivers to the deep again.</l>
                <l>
-                  <pb n="129" facs="tcp:021495_0142_0FB404F78FD3FC98"/>A ſocial commerce hold, and firm ſupport</l>
+                  <pb n="129" facs="unknown:021495_0142_0FB404F78FD3FC98"/>A ſocial commerce hold, and firm ſupport</l>
                <l>The full adjuſted harmony of things.</l>
                <l>When Autumn ſcatters his departing gleams,</l>
                <l>Warn'd of approaching Winter, gathered, play <milestone type="tcpmilestone" unit="unspecified" n="835"/>
@@ -5754,7 +5755,7 @@ AUTUMN.</head>
                <l>Who can recount what tranſmigrations there</l>
                <l>Are annual made? what nations come and go?</l>
                <l>
-                  <pb n="130" facs="tcp:021495_0143_0FB404F910122A90"/>And how the living clouds on clouds ariſes?</l>
+                  <pb n="130" facs="unknown:021495_0143_0FB404F910122A90"/>And how the living clouds on clouds ariſes?</l>
                <l>Infinite wings! till all the plume-dark air,</l>
                <l>And rude reſounding ſhore, are on the cry.</l>
                <l>Here the plain harmleſs native his ſmall flock,</l>
@@ -5820,7 +5821,7 @@ AUTUMN.</head>
                      <desc>•</desc>
                   </gap>ill requited chief!)</l>
                <l>
-                  <pb n="131" facs="tcp:021495_0144_0FB404FA8E9CC8A0"/>To hold a generous undiminiſh'd ſtate; <milestone type="tcpmilestone" unit="unspecified" n="900"/>
+                  <pb n="131" facs="unknown:021495_0144_0FB404FA8E9CC8A0"/>To hold a generous undiminiſh'd ſtate; <milestone type="tcpmilestone" unit="unspecified" n="900"/>
                </l>
                <l>Too much in vain! Hence of unequal bounds</l>
                <l>Impatient, and by tempting glory borne</l>
@@ -5866,7 +5867,7 @@ AUTUMN.</head>
                </l>
                <l>In thee, with all a mother's triumph, ſees</l>
                <l>
-                  <pb n="132" facs="tcp:021495_0145_0FB404FC11460328"/>Her every virtue, every grace combin'd,</l>
+                  <pb n="132" facs="unknown:021495_0145_0FB404FC11460328"/>Her every virtue, every grace combin'd,</l>
                <l>Her genius, wiſdom, her engaging turn,</l>
                <l>Her pride of honour, and her courage try'd,</l>
                <l>Calm, and intrepid, in the very throat <milestone type="tcpmilestone" unit="unspecified" n="935"/>
@@ -5916,7 +5917,7 @@ AUTUMN.</head>
                   <milestone type="tcpmilestone" unit="unspecified" n="965"/>
                </l>
                <l>
-                  <pb n="133" facs="tcp:021495_0146_0FB404FD90BC1A78"/>To ſoothe the throbbing paſſions into peace;</l>
+                  <pb n="133" facs="unknown:021495_0146_0FB404FD90BC1A78"/>To ſoothe the throbbing paſſions into peace;</l>
                <l>And wooe lone <hi>Quie<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
@@ -5970,7 +5971,7 @@ AUTUMN.</head>
                <l>Their ſunny robes reſign. Even what remain'd</l>
                <l>Of ſtronger fruits falls from the naked tree;</l>
                <l>
-                  <pb n="134" facs="tcp:021495_0147_0FB404FF12360878"/>And woods, fields, gardens, orchards, all around <milestone type="tcpmilestone" unit="unspecified" n="1000"/>
+                  <pb n="134" facs="unknown:021495_0147_0FB404FF12360878"/>And woods, fields, gardens, orchards, all around <milestone type="tcpmilestone" unit="unspecified" n="1000"/>
                </l>
                <l>The deſolated proſpect thrills the ſoul.</l>
                <l>He comes! he comes! in every breeze the POWER</l>
@@ -6017,7 +6018,7 @@ AUTUMN.</head>
                <l>Tremendous ſweep, or ſeem to ſweep along;</l>
                <l>And voices more than human, thro' the void</l>
                <l>
-                  <pb n="135" facs="tcp:021495_0148_0FB4050098FA5920"/>Deep-ſounding, ſeize the enthuſiaſtic ear!</l>
+                  <pb n="135" facs="unknown:021495_0148_0FB4050098FA5920"/>Deep-ſounding, ſeize the enthuſiaſtic ear!</l>
                <l>Or is this gloom too much? Then lead, ye powers,</l>
                <l>That o'er the garden and the rural ſeat <milestone type="tcpmilestone" unit="unspecified" n="1036"/>
                </l>
@@ -6067,7 +6068,7 @@ AUTUMN.</head>
                </l>
                <l>Of honeſt Zeal the indignant lightening throws,</l>
                <l>
-                  <pb n="136" facs="tcp:021495_0149_0FB4050210DD0FF8"/>And ſhakes Corruption on her ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="136" facs="unknown:021495_0149_0FB4050210DD0FF8"/>And ſhakes Corruption on her ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -6253,7 +6254,7 @@ AUTUMN.</head>
                   </gap>d <milestone type="tcpmilestone" unit="unspecified" n="1100"/>
                </l>
                <l>
-                  <pb n="137" facs="tcp:021495_0150_0FB4050390B154A8"/>But when half-blotted from the ſky, her light,</l>
+                  <pb n="137" facs="unknown:021495_0150_0FB4050390B154A8"/>But when half-blotted from the ſky, her light,</l>
                <l>Fainting, pemits the ſtarry fires to burn</l>
                <l>With keener luſtre thro' the depth of heaven;</l>
                <l>Or near extinct her deadened orb appears</l>
@@ -6299,7 +6300,7 @@ AUTUMN.</head>
                <l>Curious ſurveys, inquiſitive to know</l>
                <l>The cauſes and materials, yet unfix'd,</l>
                <l>
-                  <pb n="138" facs="tcp:021495_0151_0FB405050FB10378"/>Of this appearance, beautiful and new.<milestone type="tcpmilestone" unit="unspecified" n="1135"/>
+                  <pb n="138" facs="unknown:021495_0151_0FB405050FB10378"/>Of this appearance, beautiful and new.<milestone type="tcpmilestone" unit="unspecified" n="1135"/>
                </l>
                <l>Now the black, and deep, night begins to fall,</l>
                <l>A ſhade immenſe, Sunk in the quenching gloom,</l>
@@ -6351,7 +6352,7 @@ AUTUMN.</head>
                <l>The rigid hoar-froſt melts before his beam;</l>
                <l>And hung on every ſpray, on every blade</l>
                <l>
-                  <pb n="139" facs="tcp:021495_0152_0FB4050730A9DED8"/>Of graſs, the myriad dew-drops twinkle round.<milestone type="tcpmilestone" unit="unspecified" n="1169"/>
+                  <pb n="139" facs="unknown:021495_0152_0FB4050730A9DED8"/>Of graſs, the myriad dew-drops twinkle round.<milestone type="tcpmilestone" unit="unspecified" n="1169"/>
                </l>
                <l>Ah ſee where robb'd, and murder'd, in that pit,</l>
                <l>Lyes the ſtill heaving hive; at evening ſnatch'd,</l>
@@ -6395,7 +6396,7 @@ AUTUMN.</head>
                <l>At theatre or feaſt, or ſunk in ſleep,</l>
                <l>(As late <hi>Palermo,</hi> was they ſate) is ſeiz'd</l>
                <l>
-                  <pb n="140" facs="tcp:021495_0153_0FB405080FA4E200"/>By ſome dread earthquake, and convulſive hurl'd</l>
+                  <pb n="140" facs="unknown:021495_0153_0FB405080FA4E200"/>By ſome dread earthquake, and convulſive hurl'd</l>
                <l>Sh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>er from the black foundation, ſtench-involv'd,</l>
@@ -6464,7 +6465,7 @@ AUTUMN.</head>
                </l>
                <l>Drinks the pure pleaſures of the RURAL LIFE.</l>
                <l>
-                  <pb n="141" facs="tcp:021495_0154_0FB40509906A9F18"/>What tho' the dome be wanting, whoſe proud gate,</l>
+                  <pb n="141" facs="unknown:021495_0154_0FB40509906A9F18"/>What tho' the dome be wanting, whoſe proud gate,</l>
                <l>Each morning, vomits out the ſneaking croud</l>
                <l>Of flatterers falſe, and in their turn abus'd?</l>
                <l>Vile intercourſe! What tho' the glittering robe <milestone type="tcpmilestone" unit="unspecified" n="1240"/>
@@ -6517,7 +6518,7 @@ AUTUMN.</head>
                   </gap>s, gleaming lakes, and fountain clear.<milestone type="tcpmilestone" unit="unspecified" n="1270"/>
                </l>
                <l>
-                  <pb n="142" facs="tcp:021495_0155_0FB4050B1106BBF0"/>Here too dwells ſimple truth; plain innocence;</l>
+                  <pb n="142" facs="unknown:021495_0155_0FB4050B1106BBF0"/>Here too dwells ſimple truth; plain innocence;</l>
                <l>Unſullied beauty; ſound unbroken youth,</l>
                <l>Patient of labour, with a little pleas'd;</l>
                <l>Health ever-blooming; unambitious toil;</l>
@@ -6559,7 +6560,7 @@ AUTUMN.</head>
                <l>In ſtill retreats, and flowery ſolitudes,</l>
                <l>To Nature's voice attends, from month to month,</l>
                <l>
-                  <pb n="143" facs="tcp:021495_0156_0FB4050C91CE4DC8"/>And day to day, thro' the revolving year; <milestone type="tcpmilestone" unit="unspecified" n="1305"/>
+                  <pb n="143" facs="unknown:021495_0156_0FB4050C91CE4DC8"/>And day to day, thro' the revolving year; <milestone type="tcpmilestone" unit="unspecified" n="1305"/>
                </l>
                <l>Admiring ſees her in her every ſhape,</l>
                <l>Feels all her ſweet emotions at his heart;</l>
@@ -6612,7 +6613,7 @@ AUTUMN.</head>
                <l>The modeſt eye, whoſe beams on his alone<g ref="char:punc">▪</g>
                </l>
                <l>
-                  <pb n="144" facs="tcp:021495_0157_0FB4050E0F3D8128"/>Ecſtatic ſhine; the little ſtrong embrace</l>
+                  <pb n="144" facs="unknown:021495_0157_0FB4050E0F3D8128"/>Ecſtatic ſhine; the little ſtrong embrace</l>
                <l>Of prattling children, twin'd around his neck,<milestone type="tcpmilestone" unit="unspecified" n="1340"/>
                </l>
                <l>And emulous to pleaſe him, calling forth</l>
@@ -6659,7 +6660,7 @@ AUTUMN.</head>
             </lg>
          </div>
          <div type="illustration">
-            <pb facs="tcp:021495_0158_0FB4050F904FA4D8"/>
+            <pb facs="unknown:021495_0158_0FB4050F904FA4D8"/>
             <p>
                <figure>
                   <head>WINTER</head>
@@ -6667,15 +6668,15 @@ AUTUMN.</head>
             </p>
          </div>
          <div type="poem">
-            <pb facs="tcp:021495_0159_0FB4051110B6BF60"/>
+            <pb facs="unknown:021495_0159_0FB4051110B6BF60"/>
             <head>WINTER.</head>
             <argument>
-               <pb facs="tcp:021495_0160_0FB405128E171DE0"/>
+               <pb facs="unknown:021495_0160_0FB405128E171DE0"/>
                <head>The ARGUMENT.</head>
                <p>The ſubject propoſed. Addreſs to the Earl ef <hi>WIL<g ref="char:EOLhyphen"/>MINGTON.</hi> Firſt approach of Winter. According to the natural courſe of the ſeaſon, various ſtorms deſcribed. Rain. Wind. Snow. The driving of the ſnows: A Man periſhing among them; whence reflections on the wants and miſeries of human life. The wolves deſcending from the <hi>Alps</hi> and <hi>Appe<g ref="char:EOLhyphen"/>nines.</hi> A wintry evening deſcribed; as ſpent by philoſophers; by the country people; in the city Froſt. A view of Winter within the <hi>polar circle.</hi> A thaw. The whole concluding with moral re<g ref="char:EOLhyphen"/>flexions on a future ſtate.</p>
             </argument>
             <head>
-               <pb facs="tcp:021495_0161_0FB405140EEBA420"/>
+               <pb facs="unknown:021495_0161_0FB405140EEBA420"/>
 WINTER.</head>
             <l>SEE, WINTER comes, to rule the varied year,</l>
             <l>Sullen, and ſad, with all his riſing train;</l>
@@ -6717,7 +6718,7 @@ WINTER.</head>
             <l>Thrice happy! could ſhe fill thy judging ear</l>
             <l>With bold deſcription, and with manly thought.</l>
             <l>
-               <pb n="148" facs="tcp:021495_0162_0FB405158F990EA8"/>Nor art thou ſkill<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="148" facs="unknown:021495_0162_0FB405158F990EA8"/>Nor art thou ſkill<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> 
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -6802,7 +6803,7 @@ WINTER.</head>
                </gap>rrowed land<g ref="char:punc">▪</g>
             </l>
             <l>
-               <pb n="149" facs="tcp:021495_0163_0FB405170FCDD278"/>Freſh from th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="149" facs="unknown:021495_0163_0FB405170FCDD278"/>Freſh from th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> plough, the ſun diſco<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -6881,7 +6882,7 @@ WINTER.</head>
             </l>
             <l>Reſiſtleſs, roaring, dreadful, down it comes,</l>
             <l>
-               <pb n="150" facs="tcp:021495_0164_0FB4051890340688"/>From the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="150" facs="unknown:021495_0164_0FB4051890340688"/>From the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>de mountain, and the moſſy wild,</l>
             <l>Tumbl<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -6942,7 +6943,7 @@ WINTER.</head>
             </l>
             <l>And on the flood the dancing feather floats.</l>
             <l>
-               <pb n="151" facs="tcp:021495_0165_0FB4051A1EC44050"/>With broadened noſtrils to the ſky up-turn'd,</l>
+               <pb n="151" facs="unknown:021495_0165_0FB4051A1EC44050"/>With broadened noſtrils to the ſky up-turn'd,</l>
             <l>The conſcious heifer ſnuffs the ſtormy gale,</l>
             <l>Even as the matron, at her nightly taſk,</l>
             <l>With penſive labour draws the ſiaxen thread,<milestone type="tcpmilestone" unit="unspecified" n="135"/>
@@ -6984,7 +6985,7 @@ WINTER.</head>
             <l>Wild as the winds acroſs the howling waſte <milestone type="tcpmilestone" unit="unspecified" n="165"/>
             </l>
             <l>
-               <pb n="152" facs="tcp:021495_0166_0FB4051B8FC0F198"/>Of mighty waters: now th' inflated wave</l>
+               <pb n="152" facs="unknown:021495_0166_0FB4051B8FC0F198"/>Of mighty waters: now th' inflated wave</l>
             <l>Straining they ſcale, and now impetuous ſhoot</l>
             <l>Into the ſecret chambers of the deep.</l>
             <l>The wint'ry <hi>Baltic</hi> thund'ring o'er their head.</l>
@@ -7036,7 +7037,7 @@ WINTER.</head>
             <l>Amid tempeſtuous darkneſs dwells alone,</l>
             <l>And on the wings of the careering wind</l>
             <l>
-               <pb n="153" facs="tcp:021495_0167_0FB4051D11D5E718"/>Walks dreadfully ſerene, commands a calm; <milestone type="tcpmilestone" unit="unspecified" n="200"/>
+               <pb n="153" facs="unknown:021495_0167_0FB4051D11D5E718"/>Walks dreadfully ſerene, commands a calm; <milestone type="tcpmilestone" unit="unspecified" n="200"/>
             </l>
             <l>Then ſtraight air, ſea, and earth are huſh'd at once.</l>
             <l>As yet, 'tis midnight deep. The weary clouds,</l>
@@ -7082,7 +7083,7 @@ WINTER.</head>
             <l>With a continual flow. The cheriſh'd fields</l>
             <l>Put on their winter-robe of pureſt white.</l>
             <l>
-               <pb n="154" facs="tcp:021495_0168_0FB4051E8E39B940"/>'Tis brightneſs all; ſave where the new ſnow melts</l>
+               <pb n="154" facs="unknown:021495_0168_0FB4051E8E39B940"/>'Tis brightneſs all; ſave where the new ſnow melts</l>
             <l>Along the mazy current. Lo, the woods <milestone type="tcpmilestone" unit="unspecified" n="235"/>
             </l>
             <l>Bow their hoar head; and, ere the languid ſun,</l>
@@ -7131,7 +7132,7 @@ WINTER.</head>
             </l>
             <l>With food at will; lodge them below the ſtorm,</l>
             <l>
-               <pb n="155" facs="tcp:021495_0169_0FB405200EAC6C88"/>And watch them ſtrict: for from their bellowing eaſt,</l>
+               <pb n="155" facs="unknown:021495_0169_0FB405200EAC6C88"/>And watch them ſtrict: for from their bellowing eaſt,</l>
             <l>In this d<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>re ſeaſon, oft the whirlwinds wing</l>
@@ -7181,7 +7182,7 @@ WINTER.</head>
             </l>
             <l>Smooth'd up with ſnow; and, what is land, unknown</l>
             <l>
-               <pb n="156" facs="tcp:021495_0170_0FB405218EE7CFA8"/>What water, of the ſtill unfrozen ſpring,</l>
+               <pb n="156" facs="unknown:021495_0170_0FB405218EE7CFA8"/>What water, of the ſtill unfrozen ſpring,</l>
             <l>In the looſe marſh or ſolitary lake,</l>
             <l>Where the freſh fountain from the bottom boils.</l>
             <l>Theſe check his fearful ſteps and down he ſink<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -7230,7 +7231,7 @@ WINTER.</head>
             <l>Of baleful grief, or eat the bitter bread <milestone type="tcpmilestone" unit="unspecified" n="335"/>
             </l>
             <l>
-               <pb n="157" facs="tcp:021495_0171_0FB405230FBD82B0"/>Of miſery. Sore pierc'd by wintry winds,</l>
+               <pb n="157" facs="unknown:021495_0171_0FB405230FBD82B0"/>Of miſery. Sore pierc'd by wintry winds,</l>
             <l>How many ſhrink into the ſordid hut</l>
             <l>Of cheerleſs poverty. How many wake</l>
             <l>With all the fiercer tortures of the mind,</l>
@@ -7270,7 +7271,7 @@ WINTER.</head>
             <l>With open freedom, little tyrants rag'd;</l>
             <l>Snatch'd the lean morſel from the ſtarving mouth;</l>
             <l>
-               <pb n="158" facs="tcp:021495_0172_0FB405248E802C68"/>Tore from cold wintry limbs the tatter'd weed;</l>
+               <pb n="158" facs="unknown:021495_0172_0FB405248E802C68"/>Tore from cold wintry limbs the tatter'd weed;</l>
             <l>Even robb'd them of the laſt of comforts, ſleep; <milestone type="tcpmilestone" unit="unspecified" n="370"/>
             </l>
             <l>The free-born BRITON to the dungeon chain'd,</l>
@@ -7326,7 +7327,7 @@ WINTER.</head>
             <l>Or ſhake the murdering ſavages away.</l>
             <l>Rapacious, at the mother's throat they fly,</l>
             <l>
-               <pb n="159" facs="tcp:021495_0173_0FB40526B0B92500"/>And tear the ſcreaming infant from her breaſt.</l>
+               <pb n="159" facs="unknown:021495_0173_0FB40526B0B92500"/>And tear the ſcreaming infant from her breaſt.</l>
             <l>The god-like face of Man avails him nought.</l>
             <l>Even beauty, force divine! at whoſe bright glance</l>
             <l>The generous lion ſtands in ſoftened gaze,<milestone type="tcpmilestone" unit="unspecified" n="406"/>
@@ -7368,7 +7369,7 @@ WINTER.</head>
             </l>
             <l>Rous'd at th'inſpiring thought, I throw aſide</l>
             <l>
-               <pb n="160" facs="tcp:021495_0174_0FB4052790B509E0"/>The long-liv'd volume; and, deep-muſing, hail</l>
+               <pb n="160" facs="unknown:021495_0174_0FB4052790B509E0"/>The long-liv'd volume; and, deep-muſing, hail</l>
             <l>The ſacred ſhades, that ſlowly-riſing paſs</l>
             <l>Before my wondering eyes. Firſt, SOCRATES,</l>
             <l>Who, firmly good in a corrupted ſtate,<milestone type="tcpmilestone" unit="unspecified" n="440"/>
@@ -7420,7 +7421,7 @@ WINTER.</head>
             <l>Shook off the load of young debauch; abroad,</l>
             <l>The ſcourge of <hi>Perſian</hi> pride, at home, the friend</l>
             <l>
-               <pb n="161" facs="tcp:021495_0175_0FB4052911C9F868"/>Of every worth and every ſplindid art;</l>
+               <pb n="161" facs="unknown:021495_0175_0FB4052911C9F868"/>Of every worth and every ſplindid art;</l>
             <l>Modeſt, and ſimple, in the pomp of wealth,<milestone type="tcpmilestone" unit="unspecified" n="470"/>
             </l>
             <l>Then the laſt worthies of declining GREECE,</l>
@@ -7467,7 +7468,7 @@ WINTER.</head>
             <l>Which knew no ſtain, ſave that with partial flame <milestone type="tcpmilestone" unit="unspecified" n="500"/>
             </l>
             <l>
-               <pb n="162" facs="tcp:021495_0176_0FB4052A8ECBF6C0"/>Their <hi>deareſt</hi> country they <hi>too fondly</hi> lov'd:</l>
+               <pb n="162" facs="unknown:021495_0176_0FB4052A8ECBF6C0"/>Their <hi>deareſt</hi> country they <hi>too fondly</hi> lov'd:</l>
             <l>Her <hi>better founder</hi> firſt the light of ROME,</l>
             <l>NUMA, who ſoften'd her rapacious ſons:</l>
             <l>SERVIUS the <hi>King</hi> who laid the ſolid baſe</l>
@@ -7511,7 +7512,7 @@ WINTER.</head>
             <l>Fair, mild, and ſtrong, as is a vernal ſun:</l>
             <l>'Tis <hi>Phoebus</hi>' ſelf, or elſe the <hi>Mantuan Swain</hi>!</l>
             <l>
-               <pb n="163" facs="tcp:021495_0177_0FB4052C14406AF0"/>Great HOMER too appears, of daring wing,</l>
+               <pb n="163" facs="unknown:021495_0177_0FB4052C14406AF0"/>Great HOMER too appears, of daring wing,</l>
             <l>
                <hi>Parent</hi> of ſong! and <hi>equal</hi> by his ſide,</l>
             <l>The BRITISH MUSE: join'd hand in hand they walk,</l>
@@ -7555,7 +7556,7 @@ WINTER.</head>
             <l>What now, alas! that life-diffuſing charm <milestone type="tcpmilestone" unit="unspecified" n="566"/>
             </l>
             <l>
-               <pb n="164" facs="tcp:021495_0178_0FB4052D8EBCACB0"/>Of ſprightly wit? that rapture for the Muſe,</l>
+               <pb n="164" facs="unknown:021495_0178_0FB4052D8EBCACB0"/>Of ſprightly wit? that rapture for the Muſe,</l>
             <l>That heart of friendſhip, and that ſoul of joy,</l>
             <l>Which bade with ſofteſt light thy virtues ſmile?</l>
             <l>Ah! only ſhew'd, to check our fond purſuits,<milestone type="tcpmilestone" unit="unspecified" n="570"/>
@@ -7613,7 +7614,7 @@ WINTER.</head>
             <l>Then, even ſuperior to ambition, we <milestone type="tcpmilestone" unit="unspecified" n="600"/>
             </l>
             <l>
-               <pb n="165" facs="tcp:021495_0179_0FB4052F0E69BA50"/>Would learn the private virtues; how to glide</l>
+               <pb n="165" facs="unknown:021495_0179_0FB4052F0E69BA50"/>Would learn the private virtues; how to glide</l>
             <l>Thro' ſhades and plains, along the ſmootheſt ſtream</l>
             <l>Of rural life: or ſnatch'd away by hope,</l>
             <l>Thro' the dim ſpaces of futurity,</l>
@@ -7654,7 +7655,7 @@ WINTER.</head>
             <l>Down the looſe ſtream of falſe inchanted joy,</l>
             <l>To ſwift deſtruction. On the rankled ſoul</l>
             <l>
-               <pb n="166" facs="tcp:021495_0180_0FB4053093110AE0"/>The gaming fury falls; and in one gulph <milestone type="tcpmilestone" unit="unspecified" n="635"/>
+               <pb n="166" facs="unknown:021495_0180_0FB4053093110AE0"/>The gaming fury falls; and in one gulph <milestone type="tcpmilestone" unit="unspecified" n="635"/>
             </l>
             <l>Of total ruin, honour, virtue, peace,</l>
             <l>Friends, families, and fortune headlong ſink.</l>
@@ -7697,7 +7698,7 @@ WINTER.</head>
             </l>
             <l>Indulge her fond ambition in thy train,</l>
             <l>
-               <pb n="167" facs="tcp:021495_0181_0FB40532122FF5C8"/>(For every Muſe has in thy train a place)</l>
+               <pb n="167" facs="unknown:021495_0181_0FB40532122FF5C8"/>(For every Muſe has in thy train a place)</l>
             <l>To mark thy various full-accompliſh'd mind:</l>
             <l>To mark that ſpirit, which, with <hi>Britiſh ſcorn,</hi>
             </l>
@@ -7743,7 +7744,7 @@ WINTER.</head>
             <l>Refines our ſpirits, thro' the new ſtrung nerves <milestone type="tcpmilestone" unit="unspecified" n="700"/>
             </l>
             <l>
-               <pb n="168" facs="tcp:021495_0182_0FB405344FB59B40"/>In ſwifter ſallies darting to the brain;</l>
+               <pb n="168" facs="unknown:021495_0182_0FB405344FB59B40"/>In ſwifter ſallies darting to the brain;</l>
             <l>Where ſits the ſoul, intenſe, collected, cool,</l>
             <l>Bright as the ſkies, and as the ſeaſon keen.</l>
             <l>All nature feels the renovating force</l>
@@ -7786,7 +7787,7 @@ WINTER.</head>
             <l>A double noiſe; while, at his evening-watch,</l>
             <l>The village dog deters the nightly thief;</l>
             <l>
-               <pb n="169" facs="tcp:021495_0183_0FB40535CDCE6898"/>The heifer lows; the diſtant water-fall <milestone type="tcpmilestone" unit="unspecified" n="735"/>
+               <pb n="169" facs="unknown:021495_0183_0FB40535CDCE6898"/>The heifer lows; the diſtant water-fall <milestone type="tcpmilestone" unit="unspecified" n="735"/>
             </l>
             <l>Swells in the breeze; and, with the haſty tread</l>
             <l>Of traveller, the hollow-ſounding plain</l>
@@ -7830,7 +7831,7 @@ WINTER.</head>
             <l>
                <hi>Batavia</hi> ruſhes forth; and as they ſweep,</l>
             <l>
-               <pb n="170" facs="tcp:021495_0184_0FB40537504A78A0"/>On ſound<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="170" facs="unknown:021495_0184_0FB40537504A78A0"/>On ſound<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>g ſkates, a thouſand different ways,</l>
             <l>In circling poiſe, ſwift as the winds, along,<milestone type="tcpmilestone" unit="unspecified" n="770"/>
@@ -7876,7 +7877,7 @@ WINTER.</head>
             <l>Wild roams the <hi>Ruſſian</hi> exile. Nought around</l>
             <l>Strikes his ſad eye, but deſarts loſt in ſnow;</l>
             <l>
-               <pb n="171" facs="tcp:021495_0185_0FB40538CEE1D080"/>And heavy loaded groves; and ſolid floods,</l>
+               <pb n="171" facs="unknown:021495_0185_0FB40538CEE1D080"/>And heavy loaded groves; and ſolid floods,</l>
             <l>That ſtretch, athwart the ſolitary vaſt,</l>
             <l>Their icy horror to the frozen main; <milestone type="tcpmilestone" unit="unspecified" n="805"/>
             </l>
@@ -7920,7 +7921,7 @@ WINTER.</head>
             <l>That ſee <hi>Bootes</hi> urge his tardy wain,<milestone type="tcpmilestone" unit="unspecified" n="835"/>
             </l>
             <l>
-               <pb n="172" facs="tcp:021495_0186_0FB4053A500EAFF0"/>A boiſterous race, by froſty <note n="*" place="bottom">The north-weſt wind.</note> 
+               <pb n="172" facs="unknown:021495_0186_0FB4053A500EAFF0"/>A boiſterous race, by froſty <note n="*" place="bottom">The north-weſt wind.</note> 
                <hi>Caurus</hi> pierc'd,</l>
             <l>Who little pleaſure know and fear no pain,</l>
             <l>Prolific ſwarm. They once relum'd the flame</l>
@@ -7964,7 +7965,7 @@ WINTER.</head>
             </l>
             <l>Wiſh'd Spring returns; and from the hazy ſouth.</l>
             <l>
-               <pb n="173" facs="tcp:021495_0187_0FB4053BCFE8A1C0"/>While dim Aurora ſlowly moves before,</l>
+               <pb n="173" facs="unknown:021495_0187_0FB4053BCFE8A1C0"/>While dim Aurora ſlowly moves before,</l>
             <l>The welcome ſun, juſt verging up at firſt,</l>
             <l>By ſmall degrees extends the ſwelling curve!</l>
             <l>Till ſeen at laſt for gay rejoicing months,<milestone type="tcpmilestone" unit="unspecified" n="870"/>
@@ -8024,7 +8025,7 @@ WINTER.</head>
                </gap> length goes out,<milestone type="tcpmilestone" unit="unspecified" n="890"/>
             </l>
             <l>
-               <pb n="174" facs="tcp:021495_0188_0FB4053D58DA1750"/>The Muſe expands her ſolitary flight;</l>
+               <pb n="174" facs="unknown:021495_0188_0FB4053D58DA1750"/>The Muſe expands her ſolitary flight;</l>
             <l>And, hovering o'er the wild ſtupendous ſcene,</l>
             <l>Beholds new ſeas beneath <note n="*" place="bottom">The other hemiſphere</note> another ſky,</l>
             <l>Thron'd in his palace of coerulean ice,</l>
@@ -8072,7 +8073,7 @@ WINTER.</head>
                   <desc>〈◊〉</desc>
                </gap>, full of death, and fierce with tenfold froſt,</l>
             <l>
-               <pb n="175" facs="tcp:021495_0189_0FB4053ED070DCC0"/>The long long night, incumbent o'er their heads,</l>
+               <pb n="175" facs="unknown:021495_0189_0FB4053ED070DCC0"/>The long long night, incumbent o'er their heads,</l>
             <l>Falls horrible. Such was the <note n="*" place="bottom">Sir Hugh Willoughby, ſent by Queen Elizabeth to diſcover the north-eaſt paſſage.</note> BRITON's ſate,<milestone type="tcpmilestone" unit="unspecified" n="925"/>
             </l>
             <l>As with <hi>firſt</hi> prow (what have not BRITONS dar'd!)</l>
@@ -8112,7 +8113,7 @@ WINTER.</head>
             <l>Immortal PETER! firſt of monarchs! He <milestone type="tcpmilestone" unit="unspecified" n="905"/>
             </l>
             <l>
-               <pb n="176" facs="tcp:021495_0190_0FB4054060204228"/>His ſtu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+               <pb n="176" facs="unknown:021495_0190_0FB4054060204228"/>His ſtu<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>orn country tam'd, her rocks, her fens,</l>
             <l>Her floods, her ſeas, her ill-ſubmitting ſons;</l>
@@ -8160,7 +8161,7 @@ WINTER.</head>
             <l>Muttering, the winds at eve, with blunted point,</l>
             <l>Blow, hollow-bluſtering from the ſouth. Subdu'd.</l>
             <l>
-               <pb n="177" facs="tcp:021495_0191_0FB4054290D232B8"/>The froſt reſolves into a trickling thaw.<milestone type="tcpmilestone" unit="unspecified" n="990"/>
+               <pb n="177" facs="unknown:021495_0191_0FB4054290D232B8"/>The froſt reſolves into a trickling thaw.<milestone type="tcpmilestone" unit="unspecified" n="990"/>
             </l>
             <l>Spotted the mountains ſhine; looſe ſleet deſcends,</l>
             <l>And floods the country round. The rivers ſwell,</l>
@@ -8202,7 +8203,7 @@ WINTER.</head>
             <l>Of mortals loſt to hope, and lights them ſafe,</l>
             <l>Thro' all this dreary labyrinth of ſate.</l>
             <l>
-               <pb n="178" facs="tcp:021495_0192_0FB4054419AF7080"/>'Tis done! dread WINTER ſpreads his lateſt glooms</l>
+               <pb n="178" facs="unknown:021495_0192_0FB4054419AF7080"/>'Tis done! dread WINTER ſpreads his lateſt glooms</l>
             <l>And reigns tremendous o'er the conquer'd year,<milestone type="tcpmilestone" unit="unspecified" n="1025"/>
             </l>
             <l>How dead the vegetable kingdoms lyes!</l>
@@ -8246,7 +8247,7 @@ WINTER.</head>
             <l>Why the lone widow and her orphans pin'd</l>
             <l>In ſtarving ſolitude; while Luxury,</l>
             <l>
-               <pb n="179" facs="tcp:021495_0193_0FB405458FD5C988"/>In palaces, lay ſtraining her low thought,</l>
+               <pb n="179" facs="unknown:021495_0193_0FB405458FD5C988"/>In palaces, lay ſtraining her low thought,</l>
             <l>To form unreal wants: why heaven-born Truth,</l>
             <l>And Moderation fair, wore the red marks <milestone type="tcpmilestone" unit="unspecified" n="1060"/>
             </l>
@@ -8262,7 +8263,7 @@ WINTER.</head>
             <l>And one unbounded SPRING incircle all.</l>
          </div>
          <div type="poem">
-            <pb facs="tcp:021495_0194_0FB405470F3E4860"/>
+            <pb facs="unknown:021495_0194_0FB405470F3E4860"/>
             <head>A HYMN.</head>
             <l>THeſe, as they change, ALMIGHTY FATHER, theſe</l>
             <l>Are but the varied GOD. The rolling year</l>
@@ -8302,7 +8303,7 @@ WINTER.</head>
             </l>
             <l>And all ſo forming an harmonious whole;</l>
             <l>
-               <pb n="182" facs="tcp:021495_0195_0FB405488F9DECC0"/>That<g ref="char:punc">▪</g> as they ſtill ſucceed, they raviſh ſtill.</l>
+               <pb n="182" facs="unknown:021495_0195_0FB405488F9DECC0"/>That<g ref="char:punc">▪</g> as they ſtill ſucceed, they raviſh ſtill.</l>
             <l>But <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>nd'ring oft, with brute unconſcious Gaze,</l>
@@ -8353,7 +8354,7 @@ WINTER.</head>
             <l>Breathe your ſtill Song into the Reaper's Heart,<milestone type="tcpmilestone" unit="unspecified" n="60"/>
             </l>
             <l>
-               <pb n="183" facs="tcp:021495_0196_0FB4054A10900D20"/>As home he goes beneath the joyous moon.</l>
+               <pb n="183" facs="unknown:021495_0196_0FB4054A10900D20"/>As home he goes beneath the joyous moon.</l>
             <l>Ye that keep watch in heaven, as earth aſleep</l>
             <l>Unconſcious lyes, effuſe your mildeſt beams,</l>
             <l>Ye conſtellations, while your angels ſtrike,</l>
@@ -8396,7 +8397,7 @@ WINTER.</head>
             <l>Still ſing the GOD OF SEASONS, as they roll.</l>
             <l>For me, when I forget the darling theme,</l>
             <l>
-               <pb n="184" facs="tcp:021495_0197_0FB4054B8FAE05D8"/>Whether the bloſſom blows, the ſummer-ray <milestone type="tcpmilestone" unit="unspecified" n="95"/>
+               <pb n="184" facs="unknown:021495_0197_0FB4054B8FAE05D8"/>Whether the bloſſom blows, the ſummer-ray <milestone type="tcpmilestone" unit="unspecified" n="95"/>
             </l>
             <l>Ruſſets the plain, <hi>inſpiring</hi> Autumn gleams;</l>
             <l>Or Winter riſe in the blakening eaſt;</l>
@@ -8428,7 +8429,7 @@ WINTER.</head>
             <l>Come then, expreſſive ſilence, muſe HIS praiſe.</l>
          </div>
          <div type="poem">
-            <pb facs="tcp:021495_0198_0FB4054D105A2458"/>
+            <pb facs="unknown:021495_0198_0FB4054D105A2458"/>
             <head>BRITANNIA. A POEM.</head>
             <epigraph>
                <q>
@@ -8476,7 +8477,7 @@ WINTER.</head>
             <l>Dawns on the Sight, and wafts the ROYAL YOUTH <note n="*" place="bottom">Frederic Prince of Wales, then lately arrived.</note>.</l>
             <l>A Freight of future Glory to my ſhore;</l>
             <l>
-               <pb n="186" facs="tcp:021495_0199_0FB4054E8F8CCA08"/>Even not the flattering View of golden Days,</l>
+               <pb n="186" facs="unknown:021495_0199_0FB4054E8F8CCA08"/>Even not the flattering View of golden Days,</l>
             <l>And riſing Periods yet of bright Renown,<milestone type="tcpmilestone" unit="unspecified" n="20"/>
             </l>
             <l>Beneath the <hi>Parents,</hi> and their endleſs Line</l>
@@ -8518,7 +8519,7 @@ WINTER.</head>
             <l>Would melt away, and ev'ry Spoil reſign,</l>
             <l>Were once the <hi>Britiſh</hi> Lion heard to roar.</l>
             <l>
-               <pb n="187" facs="tcp:021495_0200_0FB405500EA4FE30"/>Whence is it that the proud <hi>Iberian</hi> thus,</l>
+               <pb n="187" facs="unknown:021495_0200_0FB405500EA4FE30"/>Whence is it that the proud <hi>Iberian</hi> thus,</l>
             <l>In their own well-aſſerted Element,</l>
             <l>Dares rouze to Wrath the Maſters of the Main?<milestone type="tcpmilestone" unit="unspecified" n="55"/>
             </l>
@@ -8562,7 +8563,7 @@ WINTER.</head>
             </l>
             <l>The ſcatter'd Remnants drove; on the blind Shelve,</l>
             <l>
-               <pb n="188" facs="tcp:021495_0201_0FB405519187EE28"/>And pointed Rock, that marks th' indented Shore,</l>
+               <pb n="188" facs="unknown:021495_0201_0FB405519187EE28"/>And pointed Rock, that marks th' indented Shore,</l>
             <l>Relentleſs daſh'd, where loud the Northern Main</l>
             <l>Howls thro' the fractur'd <hi>Caledonian</hi> Iſles.</l>
             <l>Such were the Dawnings of my wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -8611,7 +8612,7 @@ WINTER.</head>
             <l>When the Land bluſhes with the Roſe alone,<milestone type="tcpmilestone" unit="unspecified" n="120"/>
             </l>
             <l>
-               <pb n="189" facs="tcp:021495_0202_0FB405530E948B40"/>The falling Fruitage and the bleeding Vine.</l>
+               <pb n="189" facs="unknown:021495_0202_0FB405530E948B40"/>The falling Fruitage and the bleeding Vine.</l>
             <l>Oh, <hi>Peace!</hi> thou ſource and ſoul of ſocial Life;</l>
             <l>Beneath whoſe calm, inſpiring Influence,</l>
             <l>Science his Views enlarges, Art refines,</l>
@@ -8652,7 +8653,7 @@ WINTER.</head>
             <l>The richer of Delight, ſometimes the more</l>
             <l>Inevitable <hi>War</hi>; when Ruffian Force</l>
             <l>
-               <pb n="189" facs="tcp:021495_0203_0FB405548FD29920"/>Awakes the Fury of an injur'd State.<milestone type="tcpmilestone" unit="unspecified" n="155"/>
+               <pb n="189" facs="unknown:021495_0203_0FB405548FD29920"/>Awakes the Fury of an injur'd State.<milestone type="tcpmilestone" unit="unspecified" n="155"/>
             </l>
             <l>Even the good patient Man, whom Reaſon rules;</l>
             <l>Rouz'd by bold Inſult, and injurious Rage,</l>
@@ -8697,7 +8698,7 @@ WINTER.</head>
             <l>And as you ride ſublimely round the World,</l>
             <l>Make every Veſſel ſtoop, make every State</l>
             <l>
-               <pb n="191" facs="tcp:021495_0204_0FB405560FFA31D8"/>At once their Welfare and their Duty know.</l>
+               <pb n="191" facs="unknown:021495_0204_0FB405560FFA31D8"/>At once their Welfare and their Duty know.</l>
             <l>This <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>s your Glory; this your Wiſdom; this <milestone type="tcpmilestone" unit="unspecified" n="190"/>
@@ -8744,7 +8745,7 @@ WINTER.</head>
             <l>Should this bright Stream, the leaſt inflected, point</l>
             <l>Its Courſe another Way, o'er other Lands</l>
             <l>
-               <pb n="192" facs="tcp:021495_0205_0FB405578F5AD4F8"/>The various Treaſures would reſiſtleſs pour,</l>
+               <pb n="192" facs="unknown:021495_0205_0FB405578F5AD4F8"/>The various Treaſures would reſiſtleſs pour,</l>
             <l>Ne'er to be won again; its ancient Tract</l>
             <l>Left a vile Channel, deſolate and dead,<milestone type="tcpmilestone" unit="unspecified" n="225"/>
             </l>
@@ -8794,7 +8795,7 @@ WINTER.</head>
                   <desc>•</desc>
                </gap>on, and the ſwelling Wiſh</l>
             <l>
-               <pb n="193" facs="tcp:021495_0206_0FB40559102BB5A0"/>For general Good, eraſing from the Mind:</l>
+               <pb n="193" facs="unknown:021495_0206_0FB40559102BB5A0"/>For general Good, eraſing from the Mind:</l>
             <l>While nought ſave narrow Selfiſhneſs ſucceeds,</l>
             <l>And low Deſign, the ſneaking Paſſions all</l>
             <l>Let looſe, and reigning in the rankled Breaſt.<milestone type="tcpmilestone" unit="unspecified" n="260"/>
@@ -8850,7 +8851,7 @@ WINTER.</head>
             <l>Lo! now my Sons, the Sons of Freedom! meet <milestone type="tcpmilestone" unit="unspecified" n="290"/>
             </l>
             <l>
-               <pb n="194" facs="tcp:021495_0207_0FB4055A9117BB80"/>In awful Senate; thither let us fly;</l>
+               <pb n="194" facs="unknown:021495_0207_0FB4055A9117BB80"/>In awful Senate; thither let us fly;</l>
             <l>Burn in the Patriot's thought, flow from his Tongue</l>
             <l>In fearleſs Truth; myſelf transform'd preſide,</l>
             <l>And ſhed the Spirit of <hi>Britannia</hi> round.</l>
@@ -8861,7 +8862,7 @@ WINTER.</head>
             <l>But the rough Cadence of the daſhing Wave.</l>
          </div>
          <div type="poem">
-            <pb facs="tcp:021495_0208_0FB4055C103E7A50"/>
+            <pb facs="unknown:021495_0208_0FB4055C103E7A50"/>
             <head>ODE for MUSIC ON ST. CECILIA's DAY.</head>
             <lg n="1">
                <head>I.</head>
@@ -8896,7 +8897,7 @@ WINTER.</head>
                <l>In a dying, dying fall.</l>
             </lg>
             <lg n="2">
-               <pb n="196" facs="tcp:021495_0209_0FB4055D8F49BDF8"/>
+               <pb n="196" facs="unknown:021495_0209_0FB4055D8F49BDF8"/>
                <head>II.</head>
                <l>By Muſic, minds an equal temper know,</l>
                <l>Nor ſwell too high, nor ſink too low.</l>
@@ -8947,7 +8948,7 @@ WINTER.</head>
                <l>To arms, to arms, to arms!</l>
             </lg>
             <lg n="4">
-               <pb n="197" facs="tcp:021495_0210_0FB4055F151F7C68"/>
+               <pb n="197" facs="unknown:021495_0210_0FB4055F151F7C68"/>
                <head>IV.</head>
                <l>But when thro' all th' infernal bounds,</l>
                <l>Which flaming Phlegeton ſurrounds,<milestone type="tcpmilestone" unit="unspecified" n="50"/>
@@ -8993,7 +8994,7 @@ WINTER.</head>
                <l>By the hero's armed ſhades,</l>
                <l>Glitt'ring thro' the gloomy glades;</l>
                <l>
-                  <pb n="198" facs="tcp:021495_0211_0FB4056091F2AA60"/>By the youths that dy'd for love,</l>
+                  <pb n="198" facs="unknown:021495_0211_0FB4056091F2AA60"/>By the youths that dy'd for love,</l>
                <l>Wand'ring in the myrtle grove,</l>
                <l>Reſtore, reſtore Euridice to life:<milestone type="tcpmilestone" unit="unspecified" n="80"/>
                </l>
@@ -9036,7 +9037,7 @@ WINTER.</head>
                <l>He trembles, he glows,</l>
                <l>Amidſt Rhodopoe's ſnows:</l>
                <l>
-                  <pb n="199" facs="tcp:021495_0212_0FB405620F17D4A0"/>See, wild as the winds o'er the deſert he flies;</l>
+                  <pb n="199" facs="unknown:021495_0212_0FB405620F17D4A0"/>See, wild as the winds o'er the deſert he flies;</l>
                <l>Hark! Haemus reſounds with the Bacchanal's cries—</l>
                <l>Ah ſee! he dies!<milestone type="tcpmilestone" unit="unspecified" n="111"/>
                </l>
@@ -9080,7 +9081,7 @@ WINTER.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="200" facs="tcp:021495_0213_0FB405638F8EAE68"/>
+            <pb n="200" facs="unknown:021495_0213_0FB405638F8EAE68"/>
             <head>ALEXANDER's FEAST. OR, THE POWER of MUSICK, <hi>An</hi> ODE. In Honour of St. <hi>Cecilia</hi>'s Day.</head>
             <byline>By Mr. DRYDEN.</byline>
             <lg n="1">
@@ -9120,7 +9121,7 @@ WINTER.</head>
                </l>
             </lg>
             <lg n="2">
-               <pb n="201" facs="tcp:021495_0214_0FB40565107977E0"/>
+               <pb n="201" facs="unknown:021495_0214_0FB40565107977E0"/>
                <head>II.</head>
                <l>
                   <hi>Timotheus</hi> plac'd on high,<milestone type="tcpmilestone" unit="unspecified" n="20"/>
@@ -9194,7 +9195,7 @@ WINTER.</head>
                      <desc>〈…〉</desc>
                   </gap>:</l>
                <l>
-                  <pb n="202" facs="tcp:021495_0215_0FB4056693AD9518"/>The jolly God in Triumph comes;</l>
+                  <pb n="202" facs="unknown:021495_0215_0FB4056693AD9518"/>The jolly God in Triumph comes;</l>
                <l>Sound the Trumpets; beat the Drums; <milestone type="tcpmilestone" unit="unspecified" n="50"/>
                </l>
                <l>Fluſh'd with a purple Grace</l>
@@ -9246,7 +9247,7 @@ WINTER.</head>
                <l>He choſe a mournful Muſe.</l>
                <l>Soft Pity to infuſe:</l>
                <l>
-                  <pb n="203" facs="tcp:021495_0216_0FB40568AEC81300"/>He ſung <hi>Darius</hi> Great and Good,<milestone type="tcpmilestone" unit="unspecified" n="75"/>
+                  <pb n="203" facs="unknown:021495_0216_0FB40568AEC81300"/>He ſung <hi>Darius</hi> Great and Good,<milestone type="tcpmilestone" unit="unspecified" n="75"/>
                </l>
                <l>By too ſevere a Fate,</l>
                <l>Fallen, fallen, fallen, fallen,</l>
@@ -9297,7 +9298,7 @@ WINTER.</head>
                <l>If the World be worth thy Winning,</l>
                <l>Think, O think, it worth Enjoying.</l>
                <l>
-                  <pb n="204" facs="tcp:021495_0217_0FB405698F3923F8"/>Lovely <hi>Thais</hi> ſits beſide thee,<milestone type="tcpmilestone" unit="unspecified" n="105"/>
+                  <pb n="204" facs="unknown:021495_0217_0FB405698F3923F8"/>Lovely <hi>Thais</hi> ſits beſide thee,<milestone type="tcpmilestone" unit="unspecified" n="105"/>
                </l>
                <l>Take the Good the Gods provide thee.</l>
                <l>The Many rend the Skies, with loud Applauſe;</l>
@@ -9370,7 +9371,7 @@ WINTER.</head>
                <l>Each a Torch in his Hand!<milestone type="tcpmilestone" unit="unspecified" n="135"/>
                </l>
                <l>
-                  <pb n="205" facs="tcp:021495_0218_0FB4056B12CF46F0"/>Thoſe are <hi>Grecian</hi> Ghoſts, that in Battle were ſlain,</l>
+                  <pb n="205" facs="unknown:021495_0218_0FB4056B12CF46F0"/>Thoſe are <hi>Grecian</hi> Ghoſts, that in Battle were ſlain,</l>
                <l>And unbury'd remain</l>
                <l>Inglorious on the Plain.</l>
                <l>Give the Vengeance due</l>
@@ -9435,7 +9436,7 @@ WINTER.</head>
                      <desc>•</desc>
                   </gap>it, and Arts unknown before.</l>
                <l>
-                  <pb n="206" facs="tcp:021495_0219_0FB4056C8F8E4CC0"/>Let old <hi>Timotheus</hi> yield the Prize,<milestone type="tcpmilestone" unit="unspecified" n="165"/>
+                  <pb n="206" facs="unknown:021495_0219_0FB4056C8F8E4CC0"/>Let old <hi>Timotheus</hi> yield the Prize,<milestone type="tcpmilestone" unit="unspecified" n="165"/>
                </l>
                <l>Or both divide the Crown;</l>
                <l>He rais'd a Mortal to the ſkies;</l>
@@ -9478,7 +9479,7 @@ WINTER.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="207" facs="tcp:021495_0220_0FB4056E103C76B0"/>
+            <pb n="207" facs="unknown:021495_0220_0FB4056E103C76B0"/>
             <head>ODE on SOLITUDE.</head>
             <byline>By Mr. POPE.</byline>
             <lg>
@@ -9517,7 +9518,7 @@ WINTER.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="208" facs="tcp:021495_0221_0FB4056F979235D0"/>
+            <pb n="208" facs="unknown:021495_0221_0FB4056F979235D0"/>
             <head>The dying Chriſtian to his Soul. ODE.</head>
             <byline>By Mr. POPE.</byline>
             <lg n="1">
@@ -9554,7 +9555,7 @@ WINTER.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="209" facs="tcp:021495_0222_0FB405710F5EB140"/>
+            <pb n="209" facs="unknown:021495_0222_0FB405710F5EB140"/>
             <head>THE UNIVERSAL PRAYER. DEO OPT. MAX.</head>
             <byline>By Mr. POPE.</byline>
             <lg>
@@ -9587,7 +9588,7 @@ WINTER.</head>
                   </gap>'n purſue.</l>
             </lg>
             <lg>
-               <pb n="210" facs="tcp:021495_0223_0FB405732C44D708"/>
+               <pb n="210" facs="unknown:021495_0223_0FB405732C44D708"/>
                <l>What Bleſſings thy free Bounty gives,</l>
                <l>Let me not caſt away;</l>
                <l>For God is paid when Man receives,</l>
@@ -9639,7 +9640,7 @@ WINTER.</head>
                <l>Thro' this Day's Life or Death.</l>
             </lg>
             <lg>
-               <pb n="211" facs="tcp:021495_0224_0FB4057412F6FB00"/>
+               <pb n="211" facs="unknown:021495_0224_0FB4057412F6FB00"/>
                <l>This Day, be Bread and Peace my Lot:<milestone type="tcpmilestone" unit="unspecified" n="45"/>
                </l>
                <l>All elſe beneath the Sun,</l>
@@ -9657,7 +9658,7 @@ WINTER.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="212" facs="tcp:021495_0225_0FB4057593C5D420"/>
+            <pb n="212" facs="unknown:021495_0225_0FB4057593C5D420"/>
             <head>ELEGY To the MEMORY of an UNFORTUNATE LADY<note n="*" place="bottom">See the Duke of Buckingham's verſes to a Lady deſigning to retire into a Monaſtery compared with Mr. P<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>pe's Le<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -9698,7 +9699,7 @@ WINTER.</head>
                </gap>n age,</l>
             <l>Dull ſullen pris'ners in the body's cage:</l>
             <l>
-               <pb n="213" facs="tcp:021495_0226_0FB40577D24EF360"/>Dim lights of life, that burn a length of years,</l>
+               <pb n="213" facs="unknown:021495_0226_0FB40577D24EF360"/>Dim lights of life, that burn a length of years,</l>
             <l>Uſeleſs, unſeen, as lamps in ſepulchres; <milestone type="tcpmilestone" unit="unspecified" n="20"/>
             </l>
             <l>Like Eaſtern Kings, a lazy ſtate they keep,</l>
@@ -9762,7 +9763,7 @@ WINTER.</head>
             </l>
             <l>By foreign hands thy decent limbs compos'd,</l>
             <l>
-               <pb n="214" facs="tcp:021495_0227_0FB405794F8C6090"/>By foreign hands thy humble grave adorn'd,</l>
+               <pb n="214" facs="unknown:021495_0227_0FB405794F8C6090"/>By foreign hands thy humble grave adorn'd,</l>
             <l>By ſtrangers honour'd, and by ſtrangers mourn'd!</l>
             <l>What tho' no friends in ſable weeds appear,<milestone type="tcpmilestone" unit="unspecified" n="55"/>
             </l>
@@ -9824,7 +9825,7 @@ WINTER.</head>
             <l>The Muſe forgot, and thou belov'd no more!</l>
          </div>
          <div type="poem">
-            <pb n="215" facs="tcp:021495_0228_0FB4057ACDB1C0A8"/>
+            <pb n="215" facs="unknown:021495_0228_0FB4057ACDB1C0A8"/>
             <head>VENI CREATOR SPIRITUS. Tranſlated in Paraphraſe.</head>
             <byline>By Mr. DRYDEN.</byline>
             <l>CReated Spirit, by whoſe Aid</l>
@@ -9863,7 +9864,7 @@ WINTER.</head>
             </l>
             <l>
                <pb n="214"
-                   facs="tcp:021495_0229_0FB4057C537E2878"
+                   facs="unknown:021495_0229_0FB4057C537E2878"
                    rendition="simple:additions"/>Chaſe from our Minds th'infernal Fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>;</l>
